@@ -4,7 +4,7 @@
 # 0.0.0.0 can be found in https://adobe.is.dumb.bar/list.txt
 # Unlicensed window? Report at:
 # https://github.com/ignaciocastro/adobe-is-dumb/issues
-# Last update: 2023-10-14 17:51 UTC
+# Last update: 2023-10-14 17:58 UTC
 127.0.0.1 54.224.241.105
 127.0.0.1 18.207.85.246
 127.0.0.1 35.76.214.141
@@ -42,3 +42,5 @@
 127.0.0.1 [A18.207.85.246
 
 127.0.0.1 18.207.85.247
+
+127.0.0.1 18.207.85.248
