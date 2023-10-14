@@ -5,7 +5,7 @@
 # can be found at https://adobe.is.dumb.bar/127.txt
 # Unlicensed window? Report at:
 # https://github.com/ignaciocastro/adobe-is-dumb/issues
-# Last update: 2023-10-14 17:58 UTC
+# Last update: 2023-10-14 18:00 UTC
 0.0.0.0 54.224.241.105
 0.0.0.0 18.207.85.246
 0.0.0.0 35.76.214.141
@@ -38,11 +38,4 @@
 0.0.0.0 34.252.184.159
 0.0.0.0 52.6.155.20
 0.0.0.0 52.48.126.58
-
-0.0.0.0 18.207.85.246
-
-0.0.0.0 [A18.207.85.246
-
 0.0.0.0 18.207.85.247
-
-0.0.0.0 18.207.85.248
