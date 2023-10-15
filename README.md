@@ -5,7 +5,7 @@
 
 [/127](https://adobe.is.dumb.bar/127 "Alternative using 127.0.0.1 instead of 0.0.0.0") [/cdn](https://adobe.is.dumb.bar/cdn "Served from jsDelivr") [/fastly](https://adobe.is.dumb.bar/fastly "Served from jsDelivr's Fastly mirror (对中国用户有用)") [/pihole](https://adobe.is.dumb.bar/pihole "Optimized for Pi-hole users (No IP before domain)")
 
-_Latest update: 
+_Latest update: Sat, 14 Oct 2023 20:45:36 UTC_
 
 Quick, easy and painless way of blocking Adobe's licensing servers. Updated continuously, without blocking other network-required features.</div>
 
