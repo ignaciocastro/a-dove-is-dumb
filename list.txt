@@ -5,7 +5,7 @@
 # can be found at https://adobe.is.dumb.bar/127.txt
 # Unlicensed window? Report at:
 # https://github.com/ignaciocastro/adobe-is-dumb/issues
-# Last update: 2023-10-15 03:44 UTC
+# Last update: 2023-10-15 03:46 UTC
 0.0.0.0 ic.adobe.io
 0.0.0.0 cc-api-data.adobe.io
 0.0.0.0 dyzt55url8.adobe.io
@@ -45,3 +45,4 @@
 0.0.0.0 fqaq3pq1o9.adobe.io
 0.0.0.0 aoorovjtha.adobe.io
 0.0.0.0 5zgzzv92fn.adobe.io
+0.0.0.0 5zgzzvtest.adobe.io
