@@ -1,0 +1,45 @@
+# These IPs will only block the licensing part of Adobe apps,
+# and shouldn't interfere with any other network option,
+# such as AI generation, downloads, etc.
+# 0.0.0.0 can be found in https://adobe.is.dumb.bar/list.txt
+# Unlicensed window? Report at:
+# https://github.com/ignaciocastro/adobe-is-dumb/issues
+# Last update: 2023-10-14 20:45 UTC
+ic.adobe.io
+cc-api-data.adobe.io
+dyzt55url8.adobe.io
+b5kbg2ggog.adobe.io
+5zgzzv92gn.adobe.io
+0mo5a70cqa.adobe.io
+pojvrj7ho5.adobe.io
+i7pq6fgbsl.adobe.io
+ph0f2h2csf.adobe.io
+r3zj0yju1q.adobe.io
+9ngulmtgqi.adobe.io
+guzg78logz.adobe.io
+2ftem87osk.adobe.io
+1b9khekel6.adobe.io
+3d3wqt96ht.adobe.io
+23ynjitwt5.adobe.io
+4vzokhpsbs.adobe.io
+3ca52znvmj.adobe.io
+r5hacgq5w6.adobe.io
+gw8gfjbs05.adobe.io
+lre1kgz2u4.adobe.io
+ij0gdyrfka.adobe.io
+8ncdzpmmrg.adobe.io
+7sj9n87sls.adobe.io
+7m31guub0q.adobe.io
+7g2gzgk9g1.adobe.io
+cd536oo20y.adobe.io
+dxyeyf6ecy.adobe.io
+jc95y2v12r.adobe.io
+1hzopx6nz7.adobe.io
+m59b4msyph.adobe.io
+69tu0xswvq.adobe.io
+vajcbj9qgq.adobe.io
+p7uxzbht8h.adobe.io
+vcorzsld2a.adobe.io
+p0bjuoe16a.adobe.io
+fqaq3pq1o9.adobe.io
+aoorovjtha.adobe.io
