@@ -7,7 +7,7 @@
 
 [/127](https://a.dove.isdumb.one/127 "Alternative using 127.0.0.1 instead of 0.0.0.0") [/cdn](https://a.dove.isdumb.one/cdn "Served from jsDelivr") [/fastly](https://a.dove.isdumb.one/fastly "Served from jsDelivr's Fastly mirror (对中国用户有用)") [/pihole](https://a.dove.isdumb.one/pihole "Optimized for Pi-hole users (No IP before domain)")
 
-_Latest update: Thu, 23 May 2024 06:21:47 UTC_
+_Latest update: Sat, 25 May 2024 00:19:17 UTC_
 
 <sub>_NEW: Please switch your domains to a.dove.isdumb.one. Old domain will be retired. Read more [here](https://github.com/ignaciocastro/adobe-is-dumb/issues/13)._</sub>
 
