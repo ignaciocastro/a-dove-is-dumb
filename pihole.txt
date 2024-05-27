@@ -2,8 +2,8 @@
 # and shouldn't interfere with any other network option,
 # such as AI generation, downloads, etc.
 # 0.0.0.0 can be found in https://a.dove.isdumb.one/list.txt
-# Unlicensed window? Report at:
-# https://github.com/ignaciocastro/adobe-is-dumb/issues
+# Repository was taken down by a DMCA claim from Adobe.
+# Please check https://t.me/adobeisdumb for updates on the matter.
 # Last update: 2024-05-25 00:19 UTC
 ic.adobe.io
 cc-api-data.adobe.io
