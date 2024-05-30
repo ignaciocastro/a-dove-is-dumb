@@ -5,7 +5,7 @@
 # can be found at https://a.dove.isdumb.one/127.txt
 # Repository was taken down by a DMCA claim from Adobe.
 # Please check https://t.me/adobeisdumb for updates on the matter.
-# Last update: 2024-05-29 17:49 UTC
+# Last update: 2024-05-30 14:15 UTC
 0.0.0.0 ic.adobe.io
 0.0.0.0 cc-api-data.adobe.io
 0.0.0.0 prod.adobegenuine.com
@@ -408,3 +408,4 @@
 0.0.0.0 gm2ai4nsfq.adobestats.io
 0.0.0.0 hs6dwhuiwh.adobestats.io
 0.0.0.0 kst1t43sji.adobestats.io
+0.0.0.0 x12wor9jo6.adobestats.io

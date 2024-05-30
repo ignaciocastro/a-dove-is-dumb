@@ -4,7 +4,7 @@
 # 0.0.0.0 can be found in https://a.dove.isdumb.one/list.txt
 # Repository was taken down by a DMCA claim from Adobe.
 # Please check https://t.me/adobeisdumb for updates on the matter.
-# Last update: 2024-05-29 17:49 UTC
+# Last update: 2024-05-30 14:15 UTC
 127.0.0.1 ic.adobe.io
 127.0.0.1 cc-api-data.adobe.io
 127.0.0.1 prod.adobegenuine.com
@@ -407,3 +407,4 @@
 127.0.0.1 gm2ai4nsfq.adobestats.io
 127.0.0.1 hs6dwhuiwh.adobestats.io
 127.0.0.1 kst1t43sji.adobestats.io
+127.0.0.1 x12wor9jo6.adobestats.io
