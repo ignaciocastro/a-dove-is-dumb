@@ -408,3 +408,4 @@
 127.0.0.1 hs6dwhuiwh.adobestats.io
 127.0.0.1 kst1t43sji.adobestats.io
 127.0.0.1 x12wor9jo6.adobestats.io
+127.0.0.1 xgj8lmrcy6.adobestats.io

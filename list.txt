@@ -409,3 +409,4 @@
 0.0.0.0 hs6dwhuiwh.adobestats.io
 0.0.0.0 kst1t43sji.adobestats.io
 0.0.0.0 x12wor9jo6.adobestats.io
+0.0.0.0 xgj8lmrcy6.adobestats.io
