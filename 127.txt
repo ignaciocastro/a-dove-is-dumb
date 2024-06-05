@@ -418,3 +418,4 @@
 127.0.0.1 ztxgqqizv7.adobestats.io
 127.0.0.1 7mw85h5tv4.adobestats.io
 127.0.0.1 5amul9liob.adobestats.io
+127.0.0.1 cfh5v77fsy.adobestats.io
