@@ -4,7 +4,7 @@
 # 0.0.0.0 can be found in https://a.dove.isdumb.one/list.txt
 # Repository was taken down by a DMCA claim from Adobe.
 # Please check https://t.me/adobeisdumb for updates on the matter.
-# Last update: 2024-06-07 12:41 UTC
+# Last update: 2024-06-09 13:47 UTC
 127.0.0.1 ic.adobe.io
 127.0.0.1 cc-api-data.adobe.io
 127.0.0.1 cc-api-data-stage.adobe.io
@@ -420,3 +420,25 @@
 127.0.0.1 5amul9liob.adobestats.io
 127.0.0.1 cfh5v77fsy.adobestats.io
 127.0.0.1 dobw5hakm0.adobestats.io
+127.0.0.1 08n59yhbxn.adobestats.io
+127.0.0.1 0p73385wa6.adobestats.io
+127.0.0.1 0vrs1f5fso.adobestats.io
+127.0.0.1 5et944c3kg.adobestats.io
+127.0.0.1 610o7ktxw7.adobestats.io
+127.0.0.1 b8qwvscik0.adobestats.io
+127.0.0.1 cvl65mxwmh.adobestats.io
+127.0.0.1 dtt06hnkyj.adobestats.io
+127.0.0.1 fg7bb8gi6d.adobestats.io
+127.0.0.1 iy304996hm.adobestats.io
+127.0.0.1 lp4og15wl5.adobestats.io
+127.0.0.1 nxq02alk63.adobestats.io
+127.0.0.1 ofgajs60g1.adobestats.io
+127.0.0.1 om52ny8l9s.adobestats.io
+127.0.0.1 s14z1kt85g.adobestats.io
+127.0.0.1 tyqs8bsps8.adobestats.io
+127.0.0.1 vvpexgmc5t.adobestats.io
+127.0.0.1 w3ffpxhbn6.adobestats.io
+127.0.0.1 w58drkayqf.adobestats.io
+127.0.0.1 w8mvrujj91.adobestats.io
+127.0.0.1 wjpmg2uott.adobestats.io
+127.0.0.1 xljz63k33x.adobestats.io

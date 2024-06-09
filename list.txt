@@ -5,7 +5,7 @@
 # can be found at https://a.dove.isdumb.one/127.txt
 # Repository was taken down by a DMCA claim from Adobe.
 # Please check https://t.me/adobeisdumb for updates on the matter.
-# Last update: 2024-06-07 12:41 UTC
+# Last update: 2024-06-09 13:47 UTC
 0.0.0.0 ic.adobe.io
 0.0.0.0 cc-api-data.adobe.io
 0.0.0.0 cc-api-data-stage.adobe.io
@@ -421,3 +421,25 @@
 0.0.0.0 5amul9liob.adobestats.io
 0.0.0.0 cfh5v77fsy.adobestats.io
 0.0.0.0 dobw5hakm0.adobestats.io
+0.0.0.0 08n59yhbxn.adobestats.io
+0.0.0.0 0p73385wa6.adobestats.io
+0.0.0.0 0vrs1f5fso.adobestats.io
+0.0.0.0 5et944c3kg.adobestats.io
+0.0.0.0 610o7ktxw7.adobestats.io
+0.0.0.0 b8qwvscik0.adobestats.io
+0.0.0.0 cvl65mxwmh.adobestats.io
+0.0.0.0 dtt06hnkyj.adobestats.io
+0.0.0.0 fg7bb8gi6d.adobestats.io
+0.0.0.0 iy304996hm.adobestats.io
+0.0.0.0 lp4og15wl5.adobestats.io
+0.0.0.0 nxq02alk63.adobestats.io
+0.0.0.0 ofgajs60g1.adobestats.io
+0.0.0.0 om52ny8l9s.adobestats.io
+0.0.0.0 s14z1kt85g.adobestats.io
+0.0.0.0 tyqs8bsps8.adobestats.io
+0.0.0.0 vvpexgmc5t.adobestats.io
+0.0.0.0 w3ffpxhbn6.adobestats.io
+0.0.0.0 w58drkayqf.adobestats.io
+0.0.0.0 w8mvrujj91.adobestats.io
+0.0.0.0 wjpmg2uott.adobestats.io
+0.0.0.0 xljz63k33x.adobestats.io
