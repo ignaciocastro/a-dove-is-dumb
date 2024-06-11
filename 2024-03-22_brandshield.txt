@@ -1,0 +1,28 @@
+Subject: SUBJECT:[a29168dcf7f08546]: Update to your trademark infringement report
+Message-ID: <A7.34.08347.1216AF56@gv.mta1vrest.cc.prd.sparkpost>
+To: ignaciocastrom@gmail.com
+Date: Wed, 20 Mar 2024 04:08:01 +0000
+MIME-Version: 1.0
+Reply-To: [REDACTED]
+From: Cloudflare <abuse@notify.cloudflare.com>
+
+Cloudflare received the below trademark infringement complaint regarding your account. If the content identified in the complaint is not removed within 72 hours,
+Cloudflare will take steps to disable access to the content, consistent with section 512(c) of  the Digital Millennium Copyright Act. Please note that these steps
+will include disabling access to the reported URL on which the content is located, which will affect any other content located on the same URL.
+
+Complaint Information:
+
+Reporter's Name: [REDACTED]
+Reporter's Email Address: [REDACTED]@brandshield.com
+Reporter's Telephone Number: [REDACTED]
+
+Reported URL(s):
+https://adobe.isdumb.one/list.txt
+
+Original Work Description: Trademarked Symbol: ACROBAT – 1833219 ADOBE - 1956216 - PHOTOSHOP – 2920764 – PREMIERE – 1769184 ILLUSTRATOR – 2060488
+Registration Number: ACROBAT – 1833219 ADOBE - 1956216 - PHOTOSHOP – 2920764 – PREMIERE – 1769184 ILLUSTRATOR – 2060488
+Registration Office: USPTO
+
+Regards,
+Cloudflare Trust & Safety
+
