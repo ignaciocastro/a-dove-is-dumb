@@ -1,6 +1,6 @@
 / /list.txt 301
 /127 /127.txt 301
-/cdn https://cdn.jsdelivr.net/gh/ignaciocastro/adobe-is-dumb@latest/list.txt
-/fastly https://fastly.jsdelivr.net/gh/ignaciocastro/adobe-is-dumb@latest/list.txt
+/cdn https://cdn.jsdelivr.net/gh/ignaciocastro/a-dove-is-dumb@latest/list.txt
+/fastly https://fastly.jsdelivr.net/gh/ignaciocastro/a-dove-is-dumb@latest/list.txt
 /pihole /pihole.txt
-/repo https://github.com/ignaciocastro/adobe-is-dumb/
+/repo https://github.com/ignaciocastro/a-dove-is-dumb/
