@@ -118,4 +118,4 @@ They are not necessary, but always appreciated! Your contribution will help me p
 </center>
 
 ##
- <div align="center"><img src="https://github.com/ignaciocastro/a-dove-is-dumb/blob/assets/adobe.png?raw=true"></div>
+ <div align="center"><img src="https://github.com/ignaciocastro/a-dove-is-dumb/blob/assets/a-dove.png?raw=true"></div>
