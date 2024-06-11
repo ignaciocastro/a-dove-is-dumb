@@ -1,5 +1,5 @@
 <div align="center">
-  <a href=https://a.dove.isdumb.one><img src="https://github.com/ignaciocastro/a-dove-is-dumb/blob/assets/header.jpg?raw=true"></a>
+  <a href=https://a.dove.isdumb.one><img src="https://cdn.jsdelivr.net/gh/ignaciocastro/a-dove-is-dumb@assets/header.jpg"></a>
   
   <sub><sup>click to open</sup></sub>
 
@@ -7,6 +7,8 @@
 [/127](https://a.dove.isdumb.one/127 "Alternative using 127.0.0.1 instead of 0.0.0.0") [/cdn](https://a.dove.isdumb.one/cdn "Served from jsDelivr") [/fastly](https://a.dove.isdumb.one/fastly "Served from jsDelivr's Fastly mirror (对中国用户有用)") [/pihole](https://a.dove.isdumb.one/pihole "Optimized for Pi-hole users (No IP before domain)")
 
 _Latest update: Sun, 09 Jun 2024 13:47:03 UTC_
+
+<sub>_NEW: Join the Telegram channel for updates [here](https://a.dove.isdumb.one/telegram)._</sub>
 
 
 Quick, easy and painless way of blocking Adobe's licensing servers. Updated continuously, without blocking other network-required features.</div>
@@ -103,6 +105,7 @@ jsDelivr URL should redirect you to a suitable mirror according to your latency 
 - Ghproxy: [违约](https://gh-proxy.com/https://raw.githubusercontent.com/ignaciocastro/a-dove-is-dumb/main/list.txt) | [备选方案（127.0.0.1)](https://gh-proxy.com/https://raw.githubusercontent.com/ignaciocastro/a-dove-is-dumb/main/127.txt) | [Pi-hole](https://gh-proxy.com/https://raw.githubusercontent.com/ignaciocastro/a-dove-is-dumb/main/pihole.txt)
 </details>
 
+
 ### Donations
 They are not necessary, but always appreciated! Your contribution will help me pay for the API services I use to continuously find subdomains, plus the yearly domain price.
 
@@ -116,4 +119,4 @@ They are not necessary, but always appreciated! Your contribution will help me p
 </center>
 
 ##
- <div align="center"><img src="https://github.com/ignaciocastro/a-dove-is-dumb/blob/assets/a-dove.png?raw=true"></div>
+ <div align="center"><img src="https://cdn.jsdelivr.net/gh/ignaciocastro/a-dove-is-dumb@assets/a-dove.png"></div>
