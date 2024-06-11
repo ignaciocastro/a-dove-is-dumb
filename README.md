@@ -8,8 +8,6 @@
 
 _Latest update: Sun, 09 Jun 2024 13:47:03 UTC_
 
-<sub>_NEW: Please switch your domains to a.dove.isdumb.one. Old domain will be retired. Read more [here](https://github.com/ignaciocastro/a-dove-is-dumb/issues/13)._</sub>
-
 
 Quick, easy and painless way of blocking Adobe's licensing servers. Updated continuously, without blocking other network-required features.</div>
 
