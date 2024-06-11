@@ -7,6 +7,6 @@ jobs:
       - uses: gacts/purge-jsdelivr-cache@v1
         with:
           url: |
-            https://cdn.jsdelivr.net/gh/ignaciocastro/adobe-is-dumb@latest/list.txt
-            https://cdn.jsdelivr.net/gh/ignaciocastro/adobe-is-dumb@latest/127.txt
-            https://cdn.jsdelivr.net/gh/ignaciocastro/adobe-is-dumb@latest/pihole.txt
+            https://cdn.jsdelivr.net/gh/ignaciocastro/a-dove-is-dumb@latest/list.txt
+            https://cdn.jsdelivr.net/gh/ignaciocastro/a-dove-is-dumb@latest/127.txt
+            https://cdn.jsdelivr.net/gh/ignaciocastro/a-dove-is-dumb@latest/pihole.txt
