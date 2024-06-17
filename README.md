@@ -4,14 +4,14 @@
   <sub><sup>click to open</sup></sub>
 
 
-[/127](https://a.dove.isdumb.one/127 "Alternative using 127.0.0.1 instead of 0.0.0.0") [/cdn](https://a.dove.isdumb.one/cdn "Served from jsDelivr") [/fastly](https://a.dove.isdumb.one/fastly "Served from jsDelivr's Fastly mirror (对中国用户有用)") [/pihole](https://a.dove.isdumb.one/pihole "Optimized for Pi-hole users (No IP before domain)")
+[/127](https://a.dove.isdumb.one/127 "Alternative using 127.0.0.1 instead of 0.0.0.0") [/cdn](https://a.dove.isdumb.one/cdn "Served from jsDelivr") [/fastly](https://a.dove.isdumb.one/fastly "Served from jsDelivr's Fastly mirror (对中国用户有用)") [/pihole](https://a.dove.isdumb.one/pihole "Optimized for Pi-hole users (No IP before domain)") [/winhosts](https://a.dove.isdumb.one/winhosts "Follows Microsoft Windows' default hosts file format")
 
 _Latest update: Fri, 14 Jun 2024 16:27:19 UTC_
 
 <sub>_NEW: Join the Telegram channel for updates [here](https://a.dove.isdumb.one/telegram)._</sub>
 
 
-Quick, easy and painless way of blocking Adobe's licensing servers. Updated continuously, without blocking other network-required features.</div>
+Quick, easy and painless way of blocking Adobe's telemetry checking servers. Updated continuously, without blocking other network-required features.</div>
 
 
 ## Usage
@@ -20,6 +20,7 @@ Quick, easy and painless way of blocking Adobe's licensing servers. Updated cont
 <summary>Normal usage (manual updates)</summary>
 
 - Copy the contents from the list to your hosts file, located in C:/Windows/System32/drivers/etc/hosts.
+- If your hosts file is the default one, you can use the Windows formatted list and copy and paste everything instead
 </details>
 
 <details>
@@ -87,10 +88,11 @@ This can happen with programs that do not support 301 redirects as the source UR
 - CDN: https://cdn.jsdelivr.net/gh/ignaciocastro/a-dove-is-dumb@latest/list.txt
 - Fastly: https://fastly.jsdelivr.net/gh/ignaciocastro/a-dove-is-dumb@latest/list.txt
 - Pihole: https://a.dove.isdumb.one/pihole.txt
+- Microsoft Windows hosts: https://a.dove.isdumb.one/winhosts.txt
 </details>
 
 ### It was working fine and now I'm getting / I'm still getting the "Unlicensed program" window / I have a new subdomain to submit
-Adobe tends to update their license subdomain every two weeks. Feel free to open [an issue](https://github.com/ignaciocastro/a-dove-is-dumb/issues/new) if you already tried updating the list and nothing happened. It'd be appreciated if you could use Fiddler / Charles Proxy when opening the program, sort by _"/integritychecker/machineevents/v1"_ and include the subdomain it was requested from.
+Adobe tends to update their telemetry checking subdomain every two weeks. Feel free to open [an issue](https://github.com/ignaciocastro/a-dove-is-dumb/issues/new) if you already tried updating the list and nothing happened. It'd be appreciated if you could use Fiddler / Charles Proxy when opening the program, sort by _"/integritychecker/machineevents/v1"_ and include the subdomain it was requested from.
 
 ### I'm in a country where Github / Cloudflare is slow or blocked / 我所在的国家Github/Cloudflare速度慢或被屏蔽
 jsDelivr URL should redirect you to a suitable mirror according to your latency / country. If you still can't access any option, please [open an issue](https://github.com/ignaciocastro/a-dove-is-dumb/issues/new).
@@ -99,10 +101,10 @@ jsDelivr URL should redirect you to a suitable mirror according to your latency 
 <details>
     <summary>镜像列表（单击展开)</summary>
     
-- Fastly镜像: [违约](https://fastly.jsdelivr.net/gh/ignaciocastro/a-dove-is-dumb@latest/list.txt) | [备选方案（127.0.0.1)](https://fastly.jsdelivr.net/gh/ignaciocastro/a-dove-is-dumb@latest/127.txt) | [Pi-hole](https://fastly.jsdelivr.net/gh/ignaciocastro/a-dove-is-dumb@latest/pihole.txt)
-- Gcore镜像: [违约](https://gcore.jsdelivr.net/gh/ignaciocastro/a-dove-is-dumb@latest/list.txt) | [备选方案（127.0.0.1)](https://gcore.jsdelivr.net/gh/ignaciocastro/a-dove-is-dumb@latest/127.txt) | [Pi-hole](https://gcore.jsdelivr.net/gh/ignaciocastro/a-dove-is-dumb@latest/pihole.txt)
-- Quantil镜像: [违约](https://quantil.jsdelivr.net/gh/ignaciocastro/a-dove-is-dumb@latest/list.txt) | [备选方案（127.0.0.1)](https://quantil.jsdelivr.net/gh/ignaciocastro/a-dove-is-dumb@latest/127.txt) | [Pi-hole](https://quantil.jsdelivr.net/gh/ignaciocastro/a-dove-is-dumb@latest/pihole.txt)
-- Ghproxy: [违约](https://gh-proxy.com/https://raw.githubusercontent.com/ignaciocastro/a-dove-is-dumb/main/list.txt) | [备选方案（127.0.0.1)](https://gh-proxy.com/https://raw.githubusercontent.com/ignaciocastro/a-dove-is-dumb/main/127.txt) | [Pi-hole](https://gh-proxy.com/https://raw.githubusercontent.com/ignaciocastro/a-dove-is-dumb/main/pihole.txt)
+- Fastly镜像: [违约](https://fastly.jsdelivr.net/gh/ignaciocastro/a-dove-is-dumb@latest/list.txt) | [备选方案（127.0.0.1)](https://fastly.jsdelivr.net/gh/ignaciocastro/a-dove-is-dumb@latest/127.txt) | [Pi-hole](https://fastly.jsdelivr.net/gh/ignaciocastro/a-dove-is-dumb@latest/pihole.txt) | [Microsoft Windows hosts](https://fastly.jsdelivr.net/gh/ignaciocastro/a-dove-is-dumb@latest/winhosts.txt)
+- Gcore镜像: [违约](https://gcore.jsdelivr.net/gh/ignaciocastro/a-dove-is-dumb@latest/list.txt) | [备选方案（127.0.0.1)](https://gcore.jsdelivr.net/gh/ignaciocastro/a-dove-is-dumb@latest/127.txt) | [Pi-hole](https://gcore.jsdelivr.net/gh/ignaciocastro/a-dove-is-dumb@latest/pihole.txt) | [Microsoft Windows hosts](https://gcore.jsdelivr.net/gh/ignaciocastro/a-dove-is-dumb@latest/winhosts.txt)
+- Quantil镜像: [违约](https://quantil.jsdelivr.net/gh/ignaciocastro/a-dove-is-dumb@latest/list.txt) | [备选方案（127.0.0.1)](https://quantil.jsdelivr.net/gh/ignaciocastro/a-dove-is-dumb@latest/127.txt) | [Pi-hole](https://quantil.jsdelivr.net/gh/ignaciocastro/a-dove-is-dumb@latest/pihole.txt) | [Microsoft Windows hosts](https://quantil.jsdelivr.net/gh/ignaciocastro/a-dove-is-dumb@latest/winhosts.txt)
+- Ghproxy: [违约](https://gh-proxy.com/https://raw.githubusercontent.com/ignaciocastro/a-dove-is-dumb/main/list.txt) | [备选方案（127.0.0.1)](https://gh-proxy.com/https://raw.githubusercontent.com/ignaciocastro/a-dove-is-dumb/main/127.txt) | [Pi-hole](https://gh-proxy.com/https://raw.githubusercontent.com/ignaciocastro/a-dove-is-dumb/main/pihole.txt) | [Microsoft Windows hosts](https://gh-proxy.com/https://raw.githubusercontent.com/ignaciocastro/a-dove-is-dumb/main/winhosts.txt)
 </details>
 
 
@@ -114,7 +116,7 @@ They are not necessary, but always appreciated! Your contribution will help me p
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F2F2PQN55)
 [![liberapay](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/ignaseeo/)
 
-[![githubsponsor](https://github.com/ignaciocastro/a-dove-is-dumb/blob/assets/githubsponsor.svg?raw=true)](https://github.com/sponsors/ignaciocastro)
+[Github Sponsors (+crypto wallets)](https://github.com/sponsors/ignaciocastro)
 
 </center>
 
