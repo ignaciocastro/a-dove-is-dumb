@@ -1,9 +1,10 @@
-# These IPs will only block the licensing part of Adobe apps,
+# These IPs will only block the telemetry check of Adobe apps,
 # and shouldn't interfere with any other network option,
 # such as AI generation, downloads, etc.
 # 0.0.0.0 can be found in https://a.dove.isdumb.one/list.txt
-# Repository was taken down by a DMCA claim from Adobe.
-# Please check https://t.me/adobeisdumb for updates on the matter.
+# Pop up window? Report at:
+# https://github.com/ignaciocastro/a-dove-is-dumb/issues
+# Or follow updates at https://a.dove.isdumb.one/telegram
 # Last update: 2024-06-14 16:27 UTC
 ic.adobe.io
 cc-api-data.adobe.io
