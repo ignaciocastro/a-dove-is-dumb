@@ -1,6 +1,6 @@
 # Copyright (c) 1993-2009 Microsoft Corp.
 #
-# This is a sample HOSTS file used by Microsoft TCP/IP for Windows provided by MajorGeeks.Com
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows
 #
 # This file contains the mappings of IP addresses to host names. Each
 # entry should be kept on an individual line. The IP address should
