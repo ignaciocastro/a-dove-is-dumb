@@ -15,11 +15,9 @@
 #
 #      102.54.94.97     rhino.acme.com          # source server
 #       38.25.63.10     x.acme.com              # x client host
-
 # localhost name resolution is handled within DNS itself.
 #	127.0.0.1       localhost
 #	::1             localhost
-
 # These IPs will only block the telemetry check of Adobe apps,
 # and shouldn't interfere with any other network option,
 # such as AI generation, downloads, etc.
@@ -27,7 +25,7 @@
 # Pop up window? Report at:
 # https://github.com/ignaciocastro/a-dove-is-dumb/issues
 # Or follow updates at https://a.dove.isdumb.one/telegram
-# Last update: 2024-06-14 16:27 UTC
+# Last update: 2024-06-17 19:09 UTC
 127.0.0.1 ic.adobe.io
 127.0.0.1 cc-api-data.adobe.io
 127.0.0.1 cc-api-data-stage.adobe.io
@@ -473,3 +471,4 @@
 127.0.0.1 heufuideue.adobestats.io
 127.0.0.1 xq68npgl4w.adobestats.io
 127.0.0.1 vnm70hlbn4.adobestats.io
+p4hiwy76wl.adobestats.io
