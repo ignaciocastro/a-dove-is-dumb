@@ -4,7 +4,7 @@
 # Pop up window? Report at:
 # https://github.com/ignaciocastro/a-dove-is-dumb/issues
 # Or follow updates at https://a.dove.isdumb.one/telegram
-# Last update: 2024-07-07 18:28 UTC
+# Last update: 2024-07-08 14:43 UTC
 0.0.0.0 ic.adobe.io
 0.0.0.0 cc-api-data.adobe.io
 0.0.0.0 cc-api-data-stage.adobe.io
@@ -49,6 +49,7 @@
 0.0.0.0 r5hacgq5w6.adobe.io
 0.0.0.0 vajcbj9qgq.adobe.io
 0.0.0.0 vcorzsld2a.adobe.io
+0.0.0.0 7hewqka7ix.adobe.io
 0.0.0.0 cv218qmzox6.prod.cloud.adobe.io
 0.0.0.0 cv24b15c1z0.prod.cloud.adobe.io
 0.0.0.0 cv24v41zibm.prod.cloud.adobe.io
@@ -508,4 +509,21 @@
 0.0.0.0 4t5jyh9fkk.adobestats.io
 0.0.0.0 hen2jsru7c.adobestats.io
 0.0.0.0 6tpqsy07cp.adobestats.io
-0.0.0.0 7hewqka7ix.adobe.io
+0.0.0.0 0andkf1e8e.adobestats.io
+0.0.0.0 2kc4lqhpto.adobestats.io
+0.0.0.0 43q1uykg1z.adobestats.io
+0.0.0.0 7zak80l8ic.adobestats.io
+0.0.0.0 9dal0pbsx3.adobestats.io
+0.0.0.0 9rcgbke6qx.adobestats.io
+0.0.0.0 cwejcdduvp.adobestats.io
+0.0.0.0 dq1gubixz7.adobestats.io
+0.0.0.0 fc2k38te2m.adobestats.io
+0.0.0.0 i1j2plx3mv.adobestats.io
+0.0.0.0 lnosso28q5.adobestats.io
+0.0.0.0 npt74s16x9.adobestats.io
+0.0.0.0 o6pk3ypjcf.adobestats.io
+0.0.0.0 pcmdl6zcfd.adobestats.io
+0.0.0.0 q0z6ycmvhl.adobestats.io
+0.0.0.0 quptxdg94y.adobestats.io
+0.0.0.0 s4y2s7r9ah.adobestats.io
+0.0.0.0 yajkeabyrj.adobestats.io
