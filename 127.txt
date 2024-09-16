@@ -824,3 +824,4 @@
 127.0.0.1 8ondwicgpd.adobestats.io
 127.0.0.1 i48sv1cxi0.adobestats.io
 127.0.0.1 0qnxjg7wfg.adobestats.io
+127.0.0.1 wzn00xy2ww.adobestats.io
