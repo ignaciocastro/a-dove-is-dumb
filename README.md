@@ -57,7 +57,7 @@ Quick, easy and painless way of blocking Adobe's telemetry checking servers. Upd
 <details>
     <summary>hostsmgr users (Automatic updates)</summary>
 
-1. Add your prefered URL to hosts_sources.dat
+1. Add your preferred URL to hosts_sources.dat
 2. Run hostsmgr to update
 </details>
 
@@ -77,7 +77,7 @@ Not at all. This list is usually weeks ahead of Adobe's domain switches, so it d
 - If they add more domains and I can add them as preventive updates
 - If they make a switch between domain formats (Moving from _*.adobe.io_ to _*.prod.cloud.adobe.io_, for example.)
 
-### My prefered program is not letting me use the list!
+### My preferred program is not letting me use the list!
 This can happen with programs that do not support 301 redirects as the source URL. You can use the following direct URLs instead:
 
 <details>
