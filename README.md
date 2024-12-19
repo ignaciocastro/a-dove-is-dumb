@@ -114,8 +114,7 @@ They are not necessary, but always appreciated! Your contribution will help me p
 <div align="center">
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F2F2PQN55)
-[![liberapay](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/ignaseeo/)
-
+[![buymeacoffee](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https:/buymeacoffee.com/ignaciocastro)
 [Github Sponsors (+crypto wallets)](https://github.com/sponsors/ignaciocastro)
 
 </center>
