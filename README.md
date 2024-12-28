@@ -6,7 +6,7 @@
 
 [/127](https://a.dove.isdumb.one/127 "Alternative using 127.0.0.1 instead of 0.0.0.0") [/cdn](https://a.dove.isdumb.one/cdn "Served from jsDelivr") [/fastly](https://a.dove.isdumb.one/fastly "Served from jsDelivr's Fastly mirror (对中国用户有用)") [/pihole](https://a.dove.isdumb.one/pihole "Optimized for Pi-hole users (No IP before domain)") [/winhosts](https://a.dove.isdumb.one/winhosts "Follows Microsoft Windows' default hosts file format")
 
-_Latest update: Fri, 27 Dec 2024 04:05:34 UTC_
+_Latest update: Sat, 28 Dec 2024 00:22:05 UTC_
 
 <sub>_NEW: Join the Telegram channel for updates [here](https://a.dove.isdumb.one/telegram)._</sub>
 
