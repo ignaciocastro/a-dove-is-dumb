@@ -4,7 +4,7 @@
 # Pop up window? Report at:
 # https://github.com/ignaciocastro/a-dove-is-dumb/issues
 # Or follow updates at https://a.dove.isdumb.one/telegram
-# Last update: 2025-03-30 19:24 UTC
+# Last update: 2025-03-30 19:44 UTC
 0.0.0.0 ic.adobe.io
 0.0.0.0 cc-api-data.adobe.io
 0.0.0.0 0mo5a70cqa.adobe.io
@@ -1646,3 +1646,31 @@
 0.0.0.0 ejzb76rjn0.7r39q.adobestats.io
 0.0.0.0 q5adb0th8o.jiegg.adobestats.io
 0.0.0.0 lxrpyw4yide.6u13v.adobestats.io
+0.0.0.0 jr8nkmw3hx3.48fwz.adobestats.io
+0.0.0.0 sxjjowwnvge.48fwz.adobestats.io
+0.0.0.0 2q0bgazbl.hzm8t.adobestats.io
+0.0.0.0 4ulbdkibbu.hzm8t.adobestats.io
+0.0.0.0 7ooyw71r9fn8.hzm8t.adobestats.io
+0.0.0.0 ahz4pbel73.hzm8t.adobestats.io
+0.0.0.0 e6tsg9pl.hzm8t.adobestats.io
+0.0.0.0 j0ges18vsaz4.hzm8t.adobestats.io
+0.0.0.0 o3gn3wzo5k3.hzm8t.adobestats.io
+0.0.0.0 pfp6kaha.hzm8t.adobestats.io
+0.0.0.0 vm7glzcs7.iwl5c.adobestats.io
+0.0.0.0 ffui2zn0a1.2cmyg.adobestats.io
+0.0.0.0 18k3eidqaqj.2coyv.adobestats.io
+0.0.0.0 2c5nrkg6v20.2coyv.adobestats.io
+0.0.0.0 6wfsha031c.2coyv.adobestats.io
+0.0.0.0 d3t1kybnbzn9.2coyv.adobestats.io
+0.0.0.0 jffzgea9k.2coyv.adobestats.io
+0.0.0.0 lyil22tko.2coyv.adobestats.io
+0.0.0.0 rdqtj9yzg.2coyv.adobestats.io
+0.0.0.0 rty2bur26.2coyv.adobestats.io
+0.0.0.0 sccequy0.2coyv.adobestats.io
+0.0.0.0 3bqmfoe5sr.t8gxe.adobestats.io
+0.0.0.0 e4dtb7zcmv.zavjl.adobestats.io
+0.0.0.0 ze88kiyu2.zavjl.adobestats.io
+0.0.0.0 0iysbckntr.p5jr3.adobestats.io
+0.0.0.0 0jw49kf4fsl.vf1av.adobestats.io
+0.0.0.0 953702nx.vf1av.adobestats.io
+0.0.0.0 iv9e06kq.vf1av.adobestats.io
