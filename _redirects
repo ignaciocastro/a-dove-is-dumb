@@ -1,0 +1,9 @@
+/ /list.txt 301
+/127 /127.txt 301
+/cdn https://cdn.jsdelivr.net/gh/ignaciocastro/adobe-is-dumb/list.txt
+/fastly https://fastly.jsdelivr.net/gh/ignaciocastro/adobe-is-dumb/list.txt
+/pihole /pihole.txt 301
+/winhosts /winhosts.txt 301
+/repo https://github.com/ignaciocastro/a-dove-is-dumb/
+/telegram https://t.me/adobeisdumb
+/clash /clash.yaml 301
