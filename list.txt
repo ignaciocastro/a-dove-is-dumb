@@ -4,7 +4,7 @@
 # Pop up window? Report at:
 # https://github.com/ignaciocastro/a-dove-is-dumb/issues
 # Or follow updates at https://a.dove.isdumb.one/telegram
-# Last update: 2025-04-01 11:51 UTC
+# Last update: 2025-04-01 20:14 UTC
 0.0.0.0 ic.adobe.io
 0.0.0.0 cc-api-data.adobe.io
 0.0.0.0 0mo5a70cqa.adobe.io
@@ -1712,3 +1712,7 @@
 0.0.0.0 mfzph1raux.g51h4.adobestats.io
 0.0.0.0 4rr89md6an.61y77.adobestats.io
 0.0.0.0 iv8ty573wf.4e2id.adobestats.io
+0.0.0.0 1qtv22u887.48fwz.adobestats.io
+0.0.0.0 9yhx05xcx9.051my.adobestats.io
+0.0.0.0 dnqb1e5b7u.adobestats.io
+0.0.0.0 h747bmm8r1.iwl5c.adobestats.io
