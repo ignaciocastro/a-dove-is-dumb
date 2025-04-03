@@ -4,7 +4,7 @@
 # Pop up window? Report at:
 # https://github.com/ignaciocastro/a-dove-is-dumb/issues
 # Or follow updates at https://a.dove.isdumb.one/telegram
-# Last update: 2025-04-03 00:46 UTC
+# Last update: 2025-04-03 06:14 UTC
 0.0.0.0 ic.adobe.io
 0.0.0.0 cc-api-data.adobe.io
 0.0.0.0 0mo5a70cqa.adobe.io
@@ -1735,3 +1735,44 @@
 0.0.0.0 lprbx6oz8f.2cmyg.adobestats.io
 0.0.0.0 vkv3qffxbm.4p4bv.adobestats.io
 0.0.0.0 xgylid6k59.vf1av.adobestats.io
+0.0.0.0 051my.adobestats.io
+0.0.0.0 1q9cz.adobestats.io
+0.0.0.0 2cmyg.adobestats.io
+0.0.0.0 2coyv.adobestats.io
+0.0.0.0 3xjvl.adobestats.io
+0.0.0.0 48fwz.adobestats.io
+0.0.0.0 4cbdo.adobestats.io
+0.0.0.0 4e2id.adobestats.io
+0.0.0.0 4p4bv.adobestats.io
+0.0.0.0 4wbo1.adobestats.io
+0.0.0.0 5i38yezew7.pkxns.adobestats.io
+0.0.0.0 61y77.adobestats.io
+0.0.0.0 6u13v.adobestats.io
+0.0.0.0 75rah.adobestats.io
+0.0.0.0 7cnli.adobestats.io
+0.0.0.0 7r39q.adobestats.io
+0.0.0.0 AAAAAAAA.BBBBBBBB.adobestats.io
+0.0.0.0 a13cy.adobestats.io
+0.0.0.0 auyzf.adobestats.io
+0.0.0.0 ay6tu.adobestats.io
+0.0.0.0 bgvqb.adobestats.io
+0.0.0.0 g51h4.adobestats.io
+0.0.0.0 h2uqz.adobestats.io
+0.0.0.0 hzm8t.adobestats.io
+0.0.0.0 iwl5c.adobestats.io
+0.0.0.0 jdr5y.adobestats.io
+0.0.0.0 jiegg.adobestats.io
+0.0.0.0 jyqfm.adobestats.io
+0.0.0.0 lqn0m.adobestats.io
+0.0.0.0 mw1i8.adobestats.io
+0.0.0.0 n5wo7.adobestats.io
+0.0.0.0 nr94p.adobestats.io
+0.0.0.0 ok0r5.adobestats.io
+0.0.0.0 p5jr3.adobestats.io
+0.0.0.0 pkxns.adobestats.io
+0.0.0.0 ru0u22bmfi.pkxns.adobestats.io
+0.0.0.0 sf7e3.adobestats.io
+0.0.0.0 t8gxe.adobestats.io
+0.0.0.0 td3wc.adobestats.io
+0.0.0.0 ue8x82z2htb.pkxns.adobestats.io
+0.0.0.0 yb259ljs46.pkxns.adobestats.io

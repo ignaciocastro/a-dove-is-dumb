@@ -5,7 +5,7 @@
 # Pop up window? Report at:
 # https://github.com/ignaciocastro/a-dove-is-dumb/issues
 # Or follow updates at https://a.dove.isdumb.one/telegram
-# Last update: 2025-04-03 00:46 UTC
+# Last update: 2025-04-03 06:14 UTC
 ic.adobe.io
 cc-api-data.adobe.io
 0mo5a70cqa.adobe.io
@@ -1736,3 +1736,44 @@ apsgfvd8zy.61y77.adobestats.io
 lprbx6oz8f.2cmyg.adobestats.io
 vkv3qffxbm.4p4bv.adobestats.io
 xgylid6k59.vf1av.adobestats.io
+051my.adobestats.io
+1q9cz.adobestats.io
+2cmyg.adobestats.io
+2coyv.adobestats.io
+3xjvl.adobestats.io
+48fwz.adobestats.io
+4cbdo.adobestats.io
+4e2id.adobestats.io
+4p4bv.adobestats.io
+4wbo1.adobestats.io
+5i38yezew7.pkxns.adobestats.io
+61y77.adobestats.io
+6u13v.adobestats.io
+75rah.adobestats.io
+7cnli.adobestats.io
+7r39q.adobestats.io
+AAAAAAAA.BBBBBBBB.adobestats.io
+a13cy.adobestats.io
+auyzf.adobestats.io
+ay6tu.adobestats.io
+bgvqb.adobestats.io
+g51h4.adobestats.io
+h2uqz.adobestats.io
+hzm8t.adobestats.io
+iwl5c.adobestats.io
+jdr5y.adobestats.io
+jiegg.adobestats.io
+jyqfm.adobestats.io
+lqn0m.adobestats.io
+mw1i8.adobestats.io
+n5wo7.adobestats.io
+nr94p.adobestats.io
+ok0r5.adobestats.io
+p5jr3.adobestats.io
+pkxns.adobestats.io
+ru0u22bmfi.pkxns.adobestats.io
+sf7e3.adobestats.io
+t8gxe.adobestats.io
+td3wc.adobestats.io
+ue8x82z2htb.pkxns.adobestats.io
+yb259ljs46.pkxns.adobestats.io
