@@ -1796,7 +1796,5 @@
 0.0.0.0 55hbesiqa.h2uqz.adobestats.io
 0.0.0.0 ug5gm2142.2cmyg.adobestats.io
 0.0.0.0 vm4o00dzlp0p.bgvqb.adobestats.io
-0.0.0.0 adobestats.io
-0.0.0.0 hstatic.io
 0.0.0.0 b2mnuxdesfqe.vf1av.adobestats.io
 0.0.0.0 b7fiblipjdis.lpst4.hstatic.io

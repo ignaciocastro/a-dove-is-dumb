@@ -1797,7 +1797,5 @@
 127.0.0.1 55hbesiqa.h2uqz.adobestats.io
 127.0.0.1 ug5gm2142.2cmyg.adobestats.io
 127.0.0.1 vm4o00dzlp0p.bgvqb.adobestats.io
-127.0.0.1 adobestats.io
-127.0.0.1 hstatic.io
 127.0.0.1 b2mnuxdesfqe.vf1av.adobestats.io
 127.0.0.1 b7fiblipjdis.lpst4.hstatic.io
