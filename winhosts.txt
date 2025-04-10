@@ -1870,5 +1870,4 @@
 0.0.0.0 cluhjrxi53.adobestats.io
 0.0.0.0 llh20qkqdx.adobestats.io
 0.0.0.0 mv6oldyd9rv.iwl5c.adobestats.io
-0.0.0.0 p13n.adobe.io
 0.0.0.0 zcbkkg47.hmq9r.adobestats.io

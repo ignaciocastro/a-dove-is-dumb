@@ -1850,5 +1850,4 @@
 127.0.0.1 cluhjrxi53.adobestats.io
 127.0.0.1 llh20qkqdx.adobestats.io
 127.0.0.1 mv6oldyd9rv.iwl5c.adobestats.io
-127.0.0.1 p13n.adobe.io
 127.0.0.1 zcbkkg47.hmq9r.adobestats.io
