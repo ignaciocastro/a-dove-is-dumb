@@ -92,7 +92,7 @@ This can happen with programs that do not support 301 redirects as the source UR
 </details>
 
 ### It was working fine and now I'm getting / I'm still getting the red banner pop-up / I have a new subdomain to submit
-Adobe tends to update their telemetry checking subdomain every two weeks. Feel free to open [an issue](https://github.com/ignaciocastro/a-dove-is-dumb/issues/new) if you already tried updating the list and nothing happened. Use Fiddler / Charles Proxy when opening the program, sort by _"/integritychecker/machineevents/v1"_ and include the subdomain it was requested from. **Please include the URL as text instead of just pasting a screenshot**, your submission will be rejected if you don't paste the URL.
+Adobe tends to update their telemetry checking subdomain every two weeks. Feel free to open [an issue](https://github.com/ignaciocastro/a-dove-is-dumb/issues/new) if you already tried updating the list and nothing happened. To submit a new domain, use Fiddler / Charles Proxy when opening the program, allow _decrypt HTTPS traffic_, sort by _"/machineevents/"_ and include the subdomain it was requested from. **Please include the URL as text instead of just pasting a screenshot**, your submission will be rejected if you don't paste the URL. If your submissions are still being rejected, ensure that your account isn't restricted.
 
 ### I'm in a country where Github / Cloudflare is slow or blocked / 我所在的国家Github/Cloudflare速度慢或被屏蔽
 jsDelivr URL should redirect you to a suitable mirror according to your latency / country. If you still can't access any option, please [open an issue](https://github.com/ignaciocastro/a-dove-is-dumb/issues/new).
