@@ -2030,3 +2030,12 @@
 0.0.0.0 8vfuxpahoe.adobestats.io
 0.0.0.0 zpfl6j1u6v.vf1av.adobestats.io
 0.0.0.0 jlgnlhhja5.adobestats.io
+0.0.0.0 ims-prod06.adobelogin.com
+0.0.0.0 crs.cr.adobe.com
+0.0.0.0 p13n.adobe.io
+0.0.0.0 cctypekit.adobe.io
+0.0.0.0 ims-na1.adobelogin.com
+0.0.0.0 0pqpkzbl.t8gxe.adobestats.io
+0.0.0.0 adobeid-na1.services.adobe.com
+0.0.0.0 platform-cs-va6c2.adobe.io
+0.0.0.0 cc-api-data-stage.adobe.io

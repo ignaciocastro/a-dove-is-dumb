@@ -2010,3 +2010,12 @@
 127.0.0.1 8vfuxpahoe.adobestats.io
 127.0.0.1 zpfl6j1u6v.vf1av.adobestats.io
 127.0.0.1 jlgnlhhja5.adobestats.io
+127.0.0.1 ims-prod06.adobelogin.com
+127.0.0.1 crs.cr.adobe.com
+127.0.0.1 p13n.adobe.io
+127.0.0.1 cctypekit.adobe.io
+127.0.0.1 ims-na1.adobelogin.com
+127.0.0.1 0pqpkzbl.t8gxe.adobestats.io
+127.0.0.1 adobeid-na1.services.adobe.com
+127.0.0.1 platform-cs-va6c2.adobe.io
+127.0.0.1 cc-api-data-stage.adobe.io
