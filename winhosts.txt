@@ -1998,4 +1998,3 @@
 0.0.0.0 3b8h6wvzki.xapgj.adobestats.io
 0.0.0.0 vp7fd66duy.jdr5y.adobestats.io
 0.0.0.0 nj444fqls5.h2uqz.adobestats.io
-0.0.0.0 lcs-cops.adobe.io

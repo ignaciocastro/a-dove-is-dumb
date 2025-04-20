@@ -1978,4 +1978,3 @@
 127.0.0.1 3b8h6wvzki.xapgj.adobestats.io
 127.0.0.1 vp7fd66duy.jdr5y.adobestats.io
 127.0.0.1 nj444fqls5.h2uqz.adobestats.io
-127.0.0.1 lcs-cops.adobe.io
