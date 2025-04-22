@@ -10,4 +10,4 @@ assignees: ''
 **Please paste the domain here**
 <domain>
 
-__Please don't include any more text, information, non-reportable domains, facts, etc__
+_Please don't include any more text, information, non-reportable domains, facts, etc_
