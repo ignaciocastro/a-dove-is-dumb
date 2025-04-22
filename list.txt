@@ -2021,7 +2021,6 @@
 0.0.0.0 m18t6u0id.vf1av.adobestats.io
 0.0.0.0 bcmegu2xw.4e2id.adobestats.io
 0.0.0.0 1euv0k67r.lqn0m.adobestats.io
-0.0.0.0 adobestats.io
 0.0.0.0 e0mb30yjm.lqn0m.adobestats.io
 0.0.0.0 k0e1c29i5.lqn0m.adobestats.io
 0.0.0.0 q8hhq8ylz.lqn0m.adobestats.io
