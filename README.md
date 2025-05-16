@@ -121,4 +121,4 @@ They are not necessary, but always appreciated! Your contribution will help me p
 </center>
 
 ##
- <div align="center"><img src="https://cdn.jsdelivr.net/gh/ignaciocastro/a-dove-is-dumb@assets/a-dove.png"></div>
+ <div align="center"><img src="https://gl.githack.com/ignaciocastro/a-dove-is-dumb/-/raw/assets/a-dove.png"></div>
