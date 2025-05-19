@@ -1,7 +1,7 @@
 / /list.txt 301
 /127 /127.txt 301
-/cdn https://cdn.jsdelivr.net/gh/ignaciocastro/a-dove-is-dumb/list.txt
-/fastly https://fastly.jsdelivr.net/gh/ignaciocastro/a-dove-is-dumb/list.txt
+/cdn https://cdn.jsdelivr.net/gh/ignaciocastro/a-dove-is-dumb@latest/list.txt
+/fastly https://fastly.jsdelivr.net/gh/ignaciocastro/a-dove-is-dumb@latest/list.txt
 /pihole /pihole.txt 301
 /winhosts /winhosts.txt 301
 /repo https://github.com/ignaciocastro/a-dove-is-dumb/
