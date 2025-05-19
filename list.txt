@@ -2,7 +2,7 @@
 # and shouldn't interfere with any other network option,
 # such as AI generation, downloads, etc.
 # Pop up window? Report at:
-# https://gitlab.com/ignaciocastro/a-dove-is-dumb/-/issues
+# https://github.com/ignaciocastro/a-dove-is-dumb/issues
 # Or follow updates at https://a.dove.isdumb.one/telegram
 # Last update: 2025-05-19 16:53 UTC
 0.0.0.0 ic.adobe.io
