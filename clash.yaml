@@ -5,7 +5,7 @@
 # Pop up window? Report at:
 # https://github.com/ignaciocastro/a-dove-is-dumb/issues
 # Or follow updates at https://a.dove.isdumb.one/telegram
-# Last update: 2025-05-21 16:24 UTC
+# Last update: 2025-05-21 19:51 UTC
 payload:
   - DOMAIN,ic.adobe.io
   - DOMAIN,cc-api-data.adobe.io
@@ -2227,3 +2227,4 @@ payload:
   - DOMAIN,eri00rc7.ay6tu.adobestats.io
   - DOMAIN,4m2s5e2nl6.adobestats.io
   - DOMAIN,8uwenabqq9.adobestats.io
+  - DOMAIN,r02kjpvh.4p4bv.adobestats.io
