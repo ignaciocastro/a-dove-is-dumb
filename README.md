@@ -22,7 +22,16 @@ Quick, easy and painless way of blocking Adobe's telemetry checking servers. Upd
 - Copy the contents from the list to your hosts file, located in C:/Windows/System32/drivers/etc/hosts.
 - If your hosts file is the default one, you can use the Windows formatted list and copy and paste everything instead
 </details>
-
+<details>
+  <summary>macOS: Automatic updates with autohosts </summary>
+  
+- Have hosts update automatically with help of [autohosts](https://github.com/angela-d/autohosts) package:
+1. `git clone https://github.com/angela-d/autohosts.git && cd autohosts && sudo ./autohosts`  # it will install in ~/autohosts and Launchdaemon service
+2. `cat https://cdn.jsdelivr.net/gh/ignaciocastro/a-dove-is-dumb@latest/list.txt >> autohosts/hosts_source`
+3. `sudo autohosts`
+  
+- This will create entries in `/etc/hosts`, you can verify by looking for "adobe.io"
+</details>
 <details>
     <summary>HostsMan users (Automatic updates)</summary>
 
