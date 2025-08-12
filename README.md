@@ -1,4 +1,3 @@
-<!-- GitAds-Verify: D8XCGD6HK69NEG5ETORD7S4H64UFBXZZ -->
 
 # Please switch your domains to a.dove.isdumb.one. Old domain will be retired. Read more [here](https://github.com/ignaciocastro/adobe-is-dumb/issues/13)
 <div align="center">
@@ -119,9 +118,6 @@ They are not necessary, but always appreciated! Your contribution will help me p
 [![githubsponsor](https://github.com/ignaciocastro/adobe-is-dumb/blob/assets/githubsponsor.svg?raw=true)](https://github.com/sponsors/ignaciocastro)
 
 </center>
-
-## GitAds Sponsored
-[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=ignaciocastro/a-dove-is-dumb@github)](https://gitads.dev/v1/ad-track?source=ignaciocastro/a-dove-is-dumb@github)
 
 ##
  <div align="center"><img src="https://github.com/ignaciocastro/adobe-is-dumb/blob/assets/adobe.png?raw=true"></div>
