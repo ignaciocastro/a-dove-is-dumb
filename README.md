@@ -120,5 +120,8 @@ They are not necessary, but always appreciated! Your contribution will help me p
 
 </center>
 
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=ignaciocastro/a-dove-is-dumb@github)](https://gitads.dev/v1/ad-track?source=ignaciocastro/a-dove-is-dumb@github)
+
 ##
  <div align="center"><img src="https://github.com/ignaciocastro/adobe-is-dumb/blob/assets/adobe.png?raw=true"></div>
