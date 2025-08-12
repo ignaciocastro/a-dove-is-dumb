@@ -1,3 +1,5 @@
+<!-- GitAds-Verify: D8XCGD6HK69NEG5ETORD7S4H64UFBXZZ -->
+
 # Please switch your domains to a.dove.isdumb.one. Old domain will be retired. Read more [here](https://github.com/ignaciocastro/adobe-is-dumb/issues/13)
 <div align="center">
   <a href=https://a.dove.isdumb.one><img src="https://github.com/ignaciocastro/adobe-is-dumb/blob/assets/header.jpg?raw=true"></a>
