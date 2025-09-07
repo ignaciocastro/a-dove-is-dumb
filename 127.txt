@@ -2039,3 +2039,4 @@
 127.0.0.1 y2pczi8d6g.adobestats.io
 127.0.0.1 hflm6w4m.jyqfm.adobestats.io
 127.0.0.1 4u4udfpb9h.adobe.io
+127.0.0.1 pg7qhy9c.hzm8t.adobestats.io
