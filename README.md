@@ -1,5 +1,5 @@
 <div align="center">
-  <a href=https://a.dove.isdumb.one><img src="https://gl.githack.com/ignaciocastro/a-dove-is-dumb/-/raw/assets/header.jpg"></a>
+  <a href=https://a.dove.isdumb.one><img src="https://cdn.jsdelivr.net/gh/ignaciocastro/a-dove-is-dumb@assets/header.jpg"></a>
   
   <sub><sup>click to open</sup></sub>
 
@@ -132,4 +132,4 @@ They are not necessary, but always appreciated! Your contribution will help me p
 </center>
 
 ##
- <div align="center"><img src="https://gl.githack.com/ignaciocastro/a-dove-is-dumb/-/raw/assets/a-dove.png"></div>
+ <div align="center"><img src="https://cdn.jsdelivr.net/gh/ignaciocastro/a-dove-is-dumb@assets/a-dove.png"></div>
