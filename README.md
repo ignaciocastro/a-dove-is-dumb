@@ -13,6 +13,17 @@ _Latest update: Mon, 08 Sep 2025 18:13:57 UTC_
 
 Quick, easy and painless way of blocking Adobe's telemetry checking servers. Updated continuously, without blocking other network-required features.</div>
 
+## Important: Some domains were deleted
+Following a [community vote](https://t.me/adobeisdumb/1097), domains older than a year have been removed from the list to reduce filesize. If you want to keep them in your hosts file, please browse to the _assets_ branch or use the following CDN links:
+<details>
+<summary>jsDelivr links</summary>
+  
+  - [list.txt](https://cdn.jsdelivr.net/gh/ignaciocastro/a-dove-is-dumb@assets/list.txt)
+  - [127.txt](https://cdn.jsdelivr.net/gh/ignaciocastro/a-dove-is-dumb@assets/127.txt)
+  - [pihole.txt](https://cdn.jsdelivr.net/gh/ignaciocastro/a-dove-is-dumb@assets/pihole.txt)
+  - [clash.yaml](https://cdn.jsdelivr.net/gh/ignaciocastro/a-dove-is-dumb@assets/clash.yaml)
+  - [winhosts.txt](https://cdn.jsdelivr.net/gh/ignaciocastro/a-dove-is-dumb@assets/winhosts.txt)
+</details>
 
 ## Usage
 
