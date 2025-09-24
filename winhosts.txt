@@ -2114,7 +2114,6 @@
 0.0.0.0 frzt4fjn.jyqfm.adobestats.io
 0.0.0.0 btofuvf69z.jyqfm.adobestats.io
 0.0.0.0 k1lfhd56ti.hzm8t.adobestats.io
-0.0.0.0 fire-fly.adobe.io
 0.0.0.0 g16fpq8yxe.75rah.adobestats.io
 0.0.0.0 xtnemz86gm.75rah.adobestats.io
 0.0.0.0 g190zpfhw.lqn0m.adobestats.io
