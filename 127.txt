@@ -2136,7 +2136,6 @@
 127.0.0.1 09h7mwt38e.lqn0m.adobestats.io
 127.0.0.1 x3hepxmayu.adobestats.io
 127.0.0.1 aafm9bfbhw.hzm8t.adobestats.io
-127.0.0.1 adobestats.io
 127.0.0.1 6wvp4dlrcx.adobestats.io
 127.0.0.1 rvyu2lz603.xwk4b.adobestats.io
 127.0.0.1 is8y9185qx.lqn0m.adobestats.io

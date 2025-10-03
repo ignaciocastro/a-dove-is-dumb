@@ -2135,7 +2135,6 @@
 0.0.0.0 09h7mwt38e.lqn0m.adobestats.io
 0.0.0.0 x3hepxmayu.adobestats.io
 0.0.0.0 aafm9bfbhw.hzm8t.adobestats.io
-0.0.0.0 adobestats.io
 0.0.0.0 6wvp4dlrcx.adobestats.io
 0.0.0.0 rvyu2lz603.xwk4b.adobestats.io
 0.0.0.0 is8y9185qx.lqn0m.adobestats.io
