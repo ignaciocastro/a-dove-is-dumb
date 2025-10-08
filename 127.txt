@@ -5,7 +5,7 @@
 # Pop up window? Report at:
 # https://github.com/ignaciocastro/a-dove-is-dumb/issues
 # Or follow updates at https://a.dove.isdumb.one/telegram
-# Last update: 2025-10-08 20:04 UTC
+# Last update: 2025-10-08 21:04 UTC
 127.0.0.1 ic.adobe.io
 127.0.0.1 cc-api-data.adobe.io
 127.0.0.1 fp.adobestats.io
@@ -2167,3 +2167,42 @@
 127.0.0.1 562whmvi6i.adobestats.io
 127.0.0.1 6k4vfmafcfg4.wzwva.adobestats.io
 127.0.0.1 e7r6v9jdyz.adobestats.io
+127.0.0.1 0fudpabqp8.adobestats.io
+127.0.0.1 0jzi3uvqz4.adobestats.io
+127.0.0.1 3oeoo2u618.adobestats.io
+127.0.0.1 498s2lj6gt.adobestats.io
+127.0.0.1 4bdpe839xa.adobestats.io
+127.0.0.1 5lynexyvfb.adobestats.io
+127.0.0.1 7oa55bwg4f.adobestats.io
+127.0.0.1 8krwzo4kvl.adobestats.io
+127.0.0.1 9xy01mu8nd.adobestats.io
+127.0.0.1 a708u6q1bv.adobestats.io
+127.0.0.1 acd545k76a.adobestats.io
+127.0.0.1 buj73svci4.adobestats.io
+127.0.0.1 d941npk6sc.adobestats.io
+127.0.0.1 eosgkc6y56.adobestats.io
+127.0.0.1 gwftzciofh.adobestats.io
+127.0.0.1 jhnm2j7tbq.adobestats.io
+127.0.0.1 jvocop5m8y.adobestats.io
+127.0.0.1 kakhigkvg2.adobestats.io
+127.0.0.1 m8nad28qgu.adobestats.io
+127.0.0.1 mz70n8q2ec.adobestats.io
+127.0.0.1 nirmean75t.adobestats.io
+127.0.0.1 oadecwp0uw.adobestats.io
+127.0.0.1 oyrwhbwltp.adobestats.io
+127.0.0.1 pvit0rg7db.adobestats.io
+127.0.0.1 qwidorfrss.adobestats.io
+127.0.0.1 qzcvb6g3ou.adobestats.io
+127.0.0.1 r02b8yi9co.adobestats.io
+127.0.0.1 s4fy3f9iov.adobestats.io
+127.0.0.1 silepdr4hq.adobestats.io
+127.0.0.1 tzgyvkciek.adobestats.io
+127.0.0.1 uk497205r1.adobestats.io
+127.0.0.1 v6m92i80f5.adobestats.io
+127.0.0.1 vkh9adbpux.adobestats.io
+127.0.0.1 vo1kqwgu78.adobestats.io
+127.0.0.1 x0up21rfc3.adobestats.io
+127.0.0.1 xbps2ycbaj.adobestats.io
+127.0.0.1 xy1lpvs6ak.adobestats.io
+127.0.0.1 z8mxr7xvjm.adobestats.io
+127.0.0.1 z9s13bja3n.adobestats.io
