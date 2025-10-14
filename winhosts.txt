@@ -2989,3 +2989,8 @@
 0.0.0.0 sgx8l1xl.6u13v.adobestats.io
 0.0.0.0 sjkzpoees3i.6u13v.adobestats.io
 0.0.0.0 k1iar7idpr.lqn0m.adobestats.io
+0.0.0.0 38jvvgy624.adobestats.io
+0.0.0.0 jbzxbl44wj.adobestats.io
+0.0.0.0 lye7v569gs.adobestats.io
+0.0.0.0 nh7z6pt4zk.adobestats.io
+0.0.0.0 zn0m27kqe1.adobestats.io
