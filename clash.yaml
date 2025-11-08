@@ -5,7 +5,7 @@
 # Pop up window? Report at:
 # https://github.com/ignaciocastro/a-dove-is-dumb/issues
 # Or follow updates at https://a.dove.isdumb.one/telegram
-# Last update: 2025-11-07 07:30 UTC
+# Last update: 2025-11-08 00:25 UTC
 payload:
   - DOMAIN,ic.adobe.io
   - DOMAIN,cc-api-data.adobe.io
@@ -3091,3 +3091,27 @@ payload:
   - DOMAIN,ix1kowtnvb.adobestats.io
   - DOMAIN,ogkgd7bum0.adobestats.io
   - DOMAIN,7en8gisy.lqn0m.adobestats.io
+  - DOMAIN,1mbwqd0cr2.adobestats.io
+  - DOMAIN,2fnwxvi2n5.adobestats.io
+  - DOMAIN,32kv62hm5s.adobestats.io
+  - DOMAIN,3fmlbn2l47.adobestats.io
+  - DOMAIN,4e35ow9oj7.adobestats.io
+  - DOMAIN,4k1z8286ym.adobestats.io
+  - DOMAIN,5o3ivfpt4h.adobestats.io
+  - DOMAIN,7zuf0kj7ba.adobestats.io
+  - DOMAIN,9nnhhpdryb.adobestats.io
+  - DOMAIN,aj8ig4glcf.adobestats.io
+  - DOMAIN,br02lgsq7c.adobestats.io
+  - DOMAIN,d9qgw52sho.adobestats.io
+  - DOMAIN,fykfe96z2s.adobestats.io
+  - DOMAIN,g0d3vx9lbj.adobestats.io
+  - DOMAIN,hhe5gu2ira.adobestats.io
+  - DOMAIN,iq875lmnit.adobestats.io
+  - DOMAIN,jlfhvn73mh.adobestats.io
+  - DOMAIN,jnhz86h2b6.adobestats.io
+  - DOMAIN,m42de3hsdx.adobestats.io
+  - DOMAIN,nxtvnjru66.adobestats.io
+  - DOMAIN,pxjkmd3f7u.adobestats.io
+  - DOMAIN,y2b67btixw.adobestats.io
+  - DOMAIN,z5xiq0c9mw.adobestats.io
+  - DOMAIN,zh673tbi73.adobestats.io
