@@ -6,7 +6,7 @@
 
 [/127](https://a.dove.isdumb.one/127 "Alternative using 127.0.0.1 instead of 0.0.0.0") [/cdn](https://a.dove.isdumb.one/cdn "Served from jsDelivr") [/fastly](https://a.dove.isdumb.one/fastly "Served from jsDelivr's Fastly mirror (对中国用户有用)") [/pihole](https://a.dove.isdumb.one/pihole "Optimized for Pi-hole users (No IP before domain)") [/winhosts](https://a.dove.isdumb.one/winhosts "Follows Microsoft Windows' default hosts file format") [/ipv6](https://a.dove.isdumb.one/ipv6 "List for IPv6 blocking") [/clash](https://a.dove.isdumb.one/clash "Formatted for Clash-based programs")
 
-_Latest update: Sat, 08 Nov 2025 00:25:22 UTC_
+_Latest update: Sun, 09 Nov 2025 01:26:00 UTC_
 
 <sub>_NEW: Join the Telegram channel for updates [here](https://a.dove.isdumb.one/telegram)._</sub>
 
