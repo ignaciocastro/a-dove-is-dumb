@@ -25,7 +25,7 @@
 # Pop up window? Report at:
 # https://github.com/ignaciocastro/a-dove-is-dumb/issues
 # Or follow updates at https://a.dove.isdumb.one/telegram
-# Last update: 2025-12-16 07:20 UTC
+# Last update: 2025-12-16 13:20 UTC
 0.0.0.0 ic.adobe.io
 0.0.0.0 cc-api-data.adobe.io
 0.0.0.0 fp.adobestats.io
@@ -3273,3 +3273,23 @@
 0.0.0.0 tsiah6cr4p.adobestats.io
 0.0.0.0 o1qhv0zq49c1.lqn0m.adobestats.io
 0.0.0.0 z9fh6j155.lqn0m.adobestats.io
+0.0.0.0 2lswef0zil.adobestats.io
+0.0.0.0 3c42054ej7.adobestats.io
+0.0.0.0 92o3rl4aiz.adobestats.io
+0.0.0.0 a3kltsza2m.adobestats.io
+0.0.0.0 c5n0bscis7.adobestats.io
+0.0.0.0 cwrhpd4an8.adobestats.io
+0.0.0.0 dsj0plyz2k.adobestats.io
+0.0.0.0 em31cxiyjl.adobestats.io
+0.0.0.0 f3lai6do1k.adobestats.io
+0.0.0.0 fz6cyzkx96.adobestats.io
+0.0.0.0 ib9l98wnyz.adobestats.io
+0.0.0.0 ihv4ujnxkw.adobestats.io
+0.0.0.0 k4vw7ysrn8.adobestats.io
+0.0.0.0 kugem2qv23.adobestats.io
+0.0.0.0 lfu6pv59h2.adobestats.io
+0.0.0.0 o8x1lc17xl.adobestats.io
+0.0.0.0 tsc96z0dpe.adobestats.io
+0.0.0.0 v7yv3rr8ps.adobestats.io
+0.0.0.0 wtev9oelba.adobestats.io
+0.0.0.0 zievh3gown.adobestats.io
