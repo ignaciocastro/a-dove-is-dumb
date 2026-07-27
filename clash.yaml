@@ -5,7 +5,7 @@
 # Pop up window? Report at:
 # https://github.com/ignaciocastro/a-dove-is-dumb/issues
 # Or follow updates at https://a.dove.isdumb.one/telegram
-# Last update: 2026-07-27 14:04 UTC
+# Last update: 2026-07-27 18:31 UTC
 payload:
   - DOMAIN,ic.adobe.io
   - DOMAIN,cc-api-data.adobe.io
@@ -4757,3 +4757,98 @@ payload:
   - DOMAIN,g7os4a6l.xwk4b.adobestats.io
   - DOMAIN,y6e93e0muejm.nr94p.adobestats.io
   - DOMAIN,1hac93w4ciq.nr94p.adobestats.io
+  - DOMAIN,01abhoynm.nr94p.adobestats.io
+  - DOMAIN,0ooc20j9s.nr94p.adobestats.io
+  - DOMAIN,1gby18snre.nr94p.adobestats.io
+  - DOMAIN,1oz5hcjo.nr94p.adobestats.io
+  - DOMAIN,290rf2vhmu.nr94p.adobestats.io
+  - DOMAIN,30q933u7wy9r.nr94p.adobestats.io
+  - DOMAIN,36ozobot30z.nr94p.adobestats.io
+  - DOMAIN,3kuc4wqjj.nr94p.adobestats.io
+  - DOMAIN,3o85zdgjsx.nr94p.adobestats.io
+  - DOMAIN,3ome07ychh.nr94p.adobestats.io
+  - DOMAIN,42ory1yh.nr94p.adobestats.io
+  - DOMAIN,4f7jz1g4.nr94p.adobestats.io
+  - DOMAIN,4iulukcwiegq.nr94p.adobestats.io
+  - DOMAIN,4mat7xp2xg5g.nr94p.adobestats.io
+  - DOMAIN,50kpnscqsj.nr94p.adobestats.io
+  - DOMAIN,5im6bd893.nr94p.adobestats.io
+  - DOMAIN,6il8a3gzd.nr94p.adobestats.io
+  - DOMAIN,7phwb6gtdcht.nr94p.adobestats.io
+  - DOMAIN,7vm0xgjs0.nr94p.adobestats.io
+  - DOMAIN,7xapbz5h2.nr94p.adobestats.io
+  - DOMAIN,8i07lr2rq.nr94p.adobestats.io
+  - DOMAIN,8iub6mx157.nr94p.adobestats.io
+  - DOMAIN,9cs6rc6276b.nr94p.adobestats.io
+  - DOMAIN,9o0jk46qf0.nr94p.adobestats.io
+  - DOMAIN,9wqj0iv0yf.nr94p.adobestats.io
+  - DOMAIN,aalb8k11in.nr94p.adobestats.io
+  - DOMAIN,adngtkuc6b5.nr94p.adobestats.io
+  - DOMAIN,aed8sg7yz.nr94p.adobestats.io
+  - DOMAIN,annjtcryg62b.nr94p.adobestats.io
+  - DOMAIN,by87c7ec.nr94p.adobestats.io
+  - DOMAIN,c4yb8tz6izw.nr94p.adobestats.io
+  - DOMAIN,c5tyuqjsd.nr94p.adobestats.io
+  - DOMAIN,chnhlmohuv.nr94p.adobestats.io
+  - DOMAIN,cvhlqpka3s.nr94p.adobestats.io
+  - DOMAIN,d12u58m1b.nr94p.adobestats.io
+  - DOMAIN,d335krk4.nr94p.adobestats.io
+  - DOMAIN,d9ed5hg1qkl.nr94p.adobestats.io
+  - DOMAIN,dhaxfwpz4bo0.nr94p.adobestats.io
+  - DOMAIN,dkz7ipdfyh.nr94p.adobestats.io
+  - DOMAIN,dpej8fcn25t8.nr94p.adobestats.io
+  - DOMAIN,dr8x5omtss.nr94p.adobestats.io
+  - DOMAIN,eckbuc2d721m.nr94p.adobestats.io
+  - DOMAIN,egpmu3m9ouie.nr94p.adobestats.io
+  - DOMAIN,fpqy3zb8.nr94p.adobestats.io
+  - DOMAIN,fpr3nxsr.nr94p.adobestats.io
+  - DOMAIN,fqwuxxkmqg.nr94p.adobestats.io
+  - DOMAIN,g8b5rgjre.nr94p.adobestats.io
+  - DOMAIN,gsbaswsx.nr94p.adobestats.io
+  - DOMAIN,hsemeynpq0zk.nr94p.adobestats.io
+  - DOMAIN,i86482u77.nr94p.adobestats.io
+  - DOMAIN,ieqa4ytluh1i.nr94p.adobestats.io
+  - DOMAIN,izktsj8t.nr94p.adobestats.io
+  - DOMAIN,jln11nvsqd.nr94p.adobestats.io
+  - DOMAIN,kyjvuf68in.nr94p.adobestats.io
+  - DOMAIN,l04lq23zzw6.nr94p.adobestats.io
+  - DOMAIN,lckizcs8o.nr94p.adobestats.io
+  - DOMAIN,lnqubgnso.nr94p.adobestats.io
+  - DOMAIN,lnrbgca6tkj.nr94p.adobestats.io
+  - DOMAIN,maxx5ddw4.nr94p.adobestats.io
+  - DOMAIN,oto8hz22l.nr94p.adobestats.io
+  - DOMAIN,ouf9hcf0jt.nr94p.adobestats.io
+  - DOMAIN,pt4vvg35di.nr94p.adobestats.io
+  - DOMAIN,q17pfsrw.nr94p.adobestats.io
+  - DOMAIN,q6tdlirko.nr94p.adobestats.io
+  - DOMAIN,qhs2v26k5.nr94p.adobestats.io
+  - DOMAIN,qqbp8gj8il.nr94p.adobestats.io
+  - DOMAIN,qsxuikk100.nr94p.adobestats.io
+  - DOMAIN,qw4i1um9em.nr94p.adobestats.io
+  - DOMAIN,rbwbrei60xwp.nr94p.adobestats.io
+  - DOMAIN,rpdipj5zz.nr94p.adobestats.io
+  - DOMAIN,rphyzefeaz.nr94p.adobestats.io
+  - DOMAIN,s9y2hfs9.nr94p.adobestats.io
+  - DOMAIN,sr5awkb8ue8q.nr94p.adobestats.io
+  - DOMAIN,st0bx76jdf4x.nr94p.adobestats.io
+  - DOMAIN,tlb4is2tf.nr94p.adobestats.io
+  - DOMAIN,u29gfjmwa0.nr94p.adobestats.io
+  - DOMAIN,u3qf7ehi4gp.nr94p.adobestats.io
+  - DOMAIN,ut5nd2k6aeo5.nr94p.adobestats.io
+  - DOMAIN,utxfcphncs8t.nr94p.adobestats.io
+  - DOMAIN,vcd913y3.nr94p.adobestats.io
+  - DOMAIN,w52otih99rc9.nr94p.adobestats.io
+  - DOMAIN,waqbx5t4lv.nr94p.adobestats.io
+  - DOMAIN,wdrm00gf1a.nr94p.adobestats.io
+  - DOMAIN,wi8m746hdbn.nr94p.adobestats.io
+  - DOMAIN,wntv058amun.nr94p.adobestats.io
+  - DOMAIN,wrrawpzaso.nr94p.adobestats.io
+  - DOMAIN,wuielahst2wf.nr94p.adobestats.io
+  - DOMAIN,x1gi903hr19.nr94p.adobestats.io
+  - DOMAIN,xr02q7ltcx6l.nr94p.adobestats.io
+  - DOMAIN,xu52f3tbxfz.nr94p.adobestats.io
+  - DOMAIN,xwu5z1zb09.nr94p.adobestats.io
+  - DOMAIN,yfm7nstt.nr94p.adobestats.io
+  - DOMAIN,ylvb9g7k5n.nr94p.adobestats.io
+  - DOMAIN,zcq3wsd5lnx.nr94p.adobestats.io
+  - DOMAIN,zkw1mdmx.nr94p.adobestats.io
