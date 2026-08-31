@@ -5,7 +5,7 @@
 # Pop up window? Report at:
 # https://github.com/ignaciocastro/a-dove-is-dumb/issues
 # Or follow updates at https://a.dove.isdumb.one/telegram
-# Last update: 2026-08-30 18:42 UTC
+# Last update: 2026-08-31 20:40 UTC
 ic.adobe.io
 cc-api-data.adobe.io
 fp.adobestats.io
@@ -4964,3 +4964,53 @@ ef5rb5ul1hn.xwk4b.adobestats.io
 6tr5fro6n.u0op6.adobestats.io
 14l0d6ad.u0op6.adobestats.io
 ab56am2rb.xwk4b.adobestats.io
+wildcard.051my.adobestats.io
+wildcard.1q9cz.adobestats.io
+wildcard.2cmyg.adobestats.io
+wildcard.2coyv.adobestats.io
+wildcard.3xjvl.adobestats.io
+wildcard.48fwz.adobestats.io
+wildcard.4cbdo.adobestats.io
+wildcard.4e2id.adobestats.io
+wildcard.4p4bv.adobestats.io
+wildcard.4wbo1.adobestats.io
+wildcard.61ro5.adobestats.io
+wildcard.61y77.adobestats.io
+wildcard.6u13v.adobestats.io
+wildcard.75rah.adobestats.io
+wildcard.7cnli.adobestats.io
+wildcard.7r39q.adobestats.io
+wildcard.a13cy.adobestats.io
+wildcard.auyzf.adobestats.io
+wildcard.ay6tu.adobestats.io
+wildcard.bgvqb.adobestats.io
+wildcard.g51h4.adobestats.io
+wildcard.h2uqz.adobestats.io
+wildcard.hmq9r.adobestats.io
+wildcard.hzm8t.adobestats.io
+wildcard.i26lu.adobestats.io
+wildcard.iwl5c.adobestats.io
+wildcard.jdr5y.adobestats.io
+wildcard.jiegg.adobestats.io
+wildcard.jyqfm.adobestats.io
+wildcard.lqn0m.adobestats.io
+wildcard.mw1i8.adobestats.io
+wildcard.n5wo7.adobestats.io
+wildcard.nr94p.adobestats.io
+wildcard.ok0r5.adobestats.io
+wildcard.omx1p.adobestats.io
+wildcard.p5jr3.adobestats.io
+wildcard.pkxns.adobestats.io
+wildcard.qd2w8.adobestats.io
+wildcard.sf7e3.adobestats.io
+wildcard.sisww.adobestats.io
+wildcard.t8gxe.adobestats.io
+wildcard.td3wc.adobestats.io
+wildcard.u0op6.adobestats.io
+wildcard.uheu9.adobestats.io
+wildcard.vf1av.adobestats.io
+wildcard.wzwva.adobestats.io
+wildcard.xapgj.adobestats.io
+wildcard.xp63y.adobestats.io
+wildcard.xwk4b.adobestats.io
+wildcard.zavjl.adobestats.io

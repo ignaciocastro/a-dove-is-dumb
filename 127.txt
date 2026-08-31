@@ -5,7 +5,7 @@
 # Pop up window? Report at:
 # https://github.com/ignaciocastro/a-dove-is-dumb/issues
 # Or follow updates at https://a.dove.isdumb.one/telegram
-# Last update: 2026-08-30 18:42 UTC
+# Last update: 2026-08-31 20:40 UTC
 127.0.0.1 ic.adobe.io
 127.0.0.1 cc-api-data.adobe.io
 127.0.0.1 fp.adobestats.io
@@ -4964,3 +4964,53 @@
 127.0.0.1 6tr5fro6n.u0op6.adobestats.io
 127.0.0.1 14l0d6ad.u0op6.adobestats.io
 127.0.0.1 ab56am2rb.xwk4b.adobestats.io
+127.0.0.1 wildcard.051my.adobestats.io
+127.0.0.1 wildcard.1q9cz.adobestats.io
+127.0.0.1 wildcard.2cmyg.adobestats.io
+127.0.0.1 wildcard.2coyv.adobestats.io
+127.0.0.1 wildcard.3xjvl.adobestats.io
+127.0.0.1 wildcard.48fwz.adobestats.io
+127.0.0.1 wildcard.4cbdo.adobestats.io
+127.0.0.1 wildcard.4e2id.adobestats.io
+127.0.0.1 wildcard.4p4bv.adobestats.io
+127.0.0.1 wildcard.4wbo1.adobestats.io
+127.0.0.1 wildcard.61ro5.adobestats.io
+127.0.0.1 wildcard.61y77.adobestats.io
+127.0.0.1 wildcard.6u13v.adobestats.io
+127.0.0.1 wildcard.75rah.adobestats.io
+127.0.0.1 wildcard.7cnli.adobestats.io
+127.0.0.1 wildcard.7r39q.adobestats.io
+127.0.0.1 wildcard.a13cy.adobestats.io
+127.0.0.1 wildcard.auyzf.adobestats.io
+127.0.0.1 wildcard.ay6tu.adobestats.io
+127.0.0.1 wildcard.bgvqb.adobestats.io
+127.0.0.1 wildcard.g51h4.adobestats.io
+127.0.0.1 wildcard.h2uqz.adobestats.io
+127.0.0.1 wildcard.hmq9r.adobestats.io
+127.0.0.1 wildcard.hzm8t.adobestats.io
+127.0.0.1 wildcard.i26lu.adobestats.io
+127.0.0.1 wildcard.iwl5c.adobestats.io
+127.0.0.1 wildcard.jdr5y.adobestats.io
+127.0.0.1 wildcard.jiegg.adobestats.io
+127.0.0.1 wildcard.jyqfm.adobestats.io
+127.0.0.1 wildcard.lqn0m.adobestats.io
+127.0.0.1 wildcard.mw1i8.adobestats.io
+127.0.0.1 wildcard.n5wo7.adobestats.io
+127.0.0.1 wildcard.nr94p.adobestats.io
+127.0.0.1 wildcard.ok0r5.adobestats.io
+127.0.0.1 wildcard.omx1p.adobestats.io
+127.0.0.1 wildcard.p5jr3.adobestats.io
+127.0.0.1 wildcard.pkxns.adobestats.io
+127.0.0.1 wildcard.qd2w8.adobestats.io
+127.0.0.1 wildcard.sf7e3.adobestats.io
+127.0.0.1 wildcard.sisww.adobestats.io
+127.0.0.1 wildcard.t8gxe.adobestats.io
+127.0.0.1 wildcard.td3wc.adobestats.io
+127.0.0.1 wildcard.u0op6.adobestats.io
+127.0.0.1 wildcard.uheu9.adobestats.io
+127.0.0.1 wildcard.vf1av.adobestats.io
+127.0.0.1 wildcard.wzwva.adobestats.io
+127.0.0.1 wildcard.xapgj.adobestats.io
+127.0.0.1 wildcard.xp63y.adobestats.io
+127.0.0.1 wildcard.xwk4b.adobestats.io
+127.0.0.1 wildcard.zavjl.adobestats.io

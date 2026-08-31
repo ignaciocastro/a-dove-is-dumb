@@ -4,7 +4,7 @@
 # Pop up window? Report at:
 # https://github.com/ignaciocastro/a-dove-is-dumb/issues
 # Or follow updates at https://a.dove.isdumb.one/telegram
-# Last update: 2026-08-30 18:42 UTC
+# Last update: 2026-08-31 20:40 UTC
 0.0.0.0 ic.adobe.io
 0.0.0.0 cc-api-data.adobe.io
 0.0.0.0 fp.adobestats.io
@@ -4963,3 +4963,53 @@
 0.0.0.0 6tr5fro6n.u0op6.adobestats.io
 0.0.0.0 14l0d6ad.u0op6.adobestats.io
 0.0.0.0 ab56am2rb.xwk4b.adobestats.io
+0.0.0.0 wildcard.051my.adobestats.io
+0.0.0.0 wildcard.1q9cz.adobestats.io
+0.0.0.0 wildcard.2cmyg.adobestats.io
+0.0.0.0 wildcard.2coyv.adobestats.io
+0.0.0.0 wildcard.3xjvl.adobestats.io
+0.0.0.0 wildcard.48fwz.adobestats.io
+0.0.0.0 wildcard.4cbdo.adobestats.io
+0.0.0.0 wildcard.4e2id.adobestats.io
+0.0.0.0 wildcard.4p4bv.adobestats.io
+0.0.0.0 wildcard.4wbo1.adobestats.io
+0.0.0.0 wildcard.61ro5.adobestats.io
+0.0.0.0 wildcard.61y77.adobestats.io
+0.0.0.0 wildcard.6u13v.adobestats.io
+0.0.0.0 wildcard.75rah.adobestats.io
+0.0.0.0 wildcard.7cnli.adobestats.io
+0.0.0.0 wildcard.7r39q.adobestats.io
+0.0.0.0 wildcard.a13cy.adobestats.io
+0.0.0.0 wildcard.auyzf.adobestats.io
+0.0.0.0 wildcard.ay6tu.adobestats.io
+0.0.0.0 wildcard.bgvqb.adobestats.io
+0.0.0.0 wildcard.g51h4.adobestats.io
+0.0.0.0 wildcard.h2uqz.adobestats.io
+0.0.0.0 wildcard.hmq9r.adobestats.io
+0.0.0.0 wildcard.hzm8t.adobestats.io
+0.0.0.0 wildcard.i26lu.adobestats.io
+0.0.0.0 wildcard.iwl5c.adobestats.io
+0.0.0.0 wildcard.jdr5y.adobestats.io
+0.0.0.0 wildcard.jiegg.adobestats.io
+0.0.0.0 wildcard.jyqfm.adobestats.io
+0.0.0.0 wildcard.lqn0m.adobestats.io
+0.0.0.0 wildcard.mw1i8.adobestats.io
+0.0.0.0 wildcard.n5wo7.adobestats.io
+0.0.0.0 wildcard.nr94p.adobestats.io
+0.0.0.0 wildcard.ok0r5.adobestats.io
+0.0.0.0 wildcard.omx1p.adobestats.io
+0.0.0.0 wildcard.p5jr3.adobestats.io
+0.0.0.0 wildcard.pkxns.adobestats.io
+0.0.0.0 wildcard.qd2w8.adobestats.io
+0.0.0.0 wildcard.sf7e3.adobestats.io
+0.0.0.0 wildcard.sisww.adobestats.io
+0.0.0.0 wildcard.t8gxe.adobestats.io
+0.0.0.0 wildcard.td3wc.adobestats.io
+0.0.0.0 wildcard.u0op6.adobestats.io
+0.0.0.0 wildcard.uheu9.adobestats.io
+0.0.0.0 wildcard.vf1av.adobestats.io
+0.0.0.0 wildcard.wzwva.adobestats.io
+0.0.0.0 wildcard.xapgj.adobestats.io
+0.0.0.0 wildcard.xp63y.adobestats.io
+0.0.0.0 wildcard.xwk4b.adobestats.io
+0.0.0.0 wildcard.zavjl.adobestats.io
