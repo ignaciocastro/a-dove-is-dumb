@@ -5,7 +5,7 @@
 # Pop up window? Report at:
 # https://github.com/ignaciocastro/a-dove-is-dumb/issues
 # Or follow updates at https://a.dove.isdumb.one/telegram
-# Last update: 2026-09-03 01:58 UTC
+# Last update: 2026-09-03 02:00 UTC
 payload:
   - DOMAIN,ic.adobe.io
   - DOMAIN,cc-api-data.adobe.io
@@ -5399,3 +5399,102 @@ payload:
   - DOMAIN,zicmus3efm3.2cmyg.adobestats.io
   - DOMAIN,zpzrwmjiyd.2coyv.adobestats.io
   - DOMAIN,zsatvosvoh.2cmyg.adobestats.io
+  - DOMAIN,0ak50oozcg.3xjvl.adobestats.io
+  - DOMAIN,0dix3t2wlu98.3xjvl.adobestats.io
+  - DOMAIN,16tugv31j.3xjvl.adobestats.io
+  - DOMAIN,1fnnckiomeu.3xjvl.adobestats.io
+  - DOMAIN,1g8td7q0x.3xjvl.adobestats.io
+  - DOMAIN,1iluujbob2.3xjvl.adobestats.io
+  - DOMAIN,1l942k7lv.3xjvl.adobestats.io
+  - DOMAIN,1tth7p4df.3xjvl.adobestats.io
+  - DOMAIN,2ytocobjxgrp.3xjvl.adobestats.io
+  - DOMAIN,388c1y6ob3.3xjvl.adobestats.io
+  - DOMAIN,3cdfhm3cv38a.3xjvl.adobestats.io
+  - DOMAIN,3ekkiraoand4.3xjvl.adobestats.io
+  - DOMAIN,3o3zn3ijdj3.3xjvl.adobestats.io
+  - DOMAIN,3t3urvw2o.3xjvl.adobestats.io
+  - DOMAIN,47x0gjbq1.3xjvl.adobestats.io
+  - DOMAIN,5f2f9rvh1t.3xjvl.adobestats.io
+  - DOMAIN,5fvs4mfkg0y.3xjvl.adobestats.io
+  - DOMAIN,5jzk0ojo.3xjvl.adobestats.io
+  - DOMAIN,5k3gt8chmakf.3xjvl.adobestats.io
+  - DOMAIN,62x9drsbjuq.3xjvl.adobestats.io
+  - DOMAIN,6ihqquz0.3xjvl.adobestats.io
+  - DOMAIN,6nmycugpyd.3xjvl.adobestats.io
+  - DOMAIN,70wwf3175uhp.3xjvl.adobestats.io
+  - DOMAIN,78j0qdj5qpn9.3xjvl.adobestats.io
+  - DOMAIN,7nbn5vhsx.3xjvl.adobestats.io
+  - DOMAIN,7z7eyq90tji.3xjvl.adobestats.io
+  - DOMAIN,82jx6w2ae1.3xjvl.adobestats.io
+  - DOMAIN,8v5wy6p6.3xjvl.adobestats.io
+  - DOMAIN,91ptfx0o.3xjvl.adobestats.io
+  - DOMAIN,997plr71aun.3xjvl.adobestats.io
+  - DOMAIN,a9ff90ul.3xjvl.adobestats.io
+  - DOMAIN,ael69y043bit.3xjvl.adobestats.io
+  - DOMAIN,alvtuiuvk.3xjvl.adobestats.io
+  - DOMAIN,ay75mx8il.3xjvl.adobestats.io
+  - DOMAIN,bchzooecm.3xjvl.adobestats.io
+  - DOMAIN,bx7xmjwkz5.3xjvl.adobestats.io
+  - DOMAIN,ce6wxb7fhr8.3xjvl.adobestats.io
+  - DOMAIN,ck1qw2151x3a.3xjvl.adobestats.io
+  - DOMAIN,de9xlnplg78.3xjvl.adobestats.io
+  - DOMAIN,dh75n0pzvauh.3xjvl.adobestats.io
+  - DOMAIN,el8dknene3u.3xjvl.adobestats.io
+  - DOMAIN,euzewmu45.3xjvl.adobestats.io
+  - DOMAIN,gfqir0k0m1.3xjvl.adobestats.io
+  - DOMAIN,hyebasuf94te.3xjvl.adobestats.io
+  - DOMAIN,idvjaw6ymu.3xjvl.adobestats.io
+  - DOMAIN,ih3w0y3i.3xjvl.adobestats.io
+  - DOMAIN,ilgw3ea86.3xjvl.adobestats.io
+  - DOMAIN,iunyim5y3ws.3xjvl.adobestats.io
+  - DOMAIN,iz1tbuvjm.3xjvl.adobestats.io
+  - DOMAIN,jihskqgq.3xjvl.adobestats.io
+  - DOMAIN,jin0y4p43.3xjvl.adobestats.io
+  - DOMAIN,joqrjdrty27.3xjvl.adobestats.io
+  - DOMAIN,km5cp70k0.3xjvl.adobestats.io
+  - DOMAIN,kqx3yi9bo.3xjvl.adobestats.io
+  - DOMAIN,l7wjrd8iw.3xjvl.adobestats.io
+  - DOMAIN,lgfdnw2g.3xjvl.adobestats.io
+  - DOMAIN,lhhygnvt.3xjvl.adobestats.io
+  - DOMAIN,lqjhmiu3m8lk.3xjvl.adobestats.io
+  - DOMAIN,m6stllme73.3xjvl.adobestats.io
+  - DOMAIN,m9fkxvxsv.3xjvl.adobestats.io
+  - DOMAIN,mij28u0a967.3xjvl.adobestats.io
+  - DOMAIN,mkoqsoik20l0.3xjvl.adobestats.io
+  - DOMAIN,n4345pyn.3xjvl.adobestats.io
+  - DOMAIN,n6vzpfzc.3xjvl.adobestats.io
+  - DOMAIN,nhrg049rln1.3xjvl.adobestats.io
+  - DOMAIN,o5j3q1phc.3xjvl.adobestats.io
+  - DOMAIN,omd28oxz2.3xjvl.adobestats.io
+  - DOMAIN,ouoh2s36.3xjvl.adobestats.io
+  - DOMAIN,pagmjllg.3xjvl.adobestats.io
+  - DOMAIN,plvteimk8.3xjvl.adobestats.io
+  - DOMAIN,q986u283ngil.3xjvl.adobestats.io
+  - DOMAIN,qoborejq.3xjvl.adobestats.io
+  - DOMAIN,r35yaq0cft1i.3xjvl.adobestats.io
+  - DOMAIN,rfkuy2bw6eyz.3xjvl.adobestats.io
+  - DOMAIN,rkh51pxxxs.3xjvl.adobestats.io
+  - DOMAIN,rlxsd9fyey.3xjvl.adobestats.io
+  - DOMAIN,rsv7862qe22h.3xjvl.adobestats.io
+  - DOMAIN,s78eo0h8.3xjvl.adobestats.io
+  - DOMAIN,sutfxezr.3xjvl.adobestats.io
+  - DOMAIN,svhg9c4vwk.3xjvl.adobestats.io
+  - DOMAIN,tciednr8.3xjvl.adobestats.io
+  - DOMAIN,tfajftrviq4.3xjvl.adobestats.io
+  - DOMAIN,tqj9mur95q.3xjvl.adobestats.io
+  - DOMAIN,tu32sl0vni.3xjvl.adobestats.io
+  - DOMAIN,tu60pue2.3xjvl.adobestats.io
+  - DOMAIN,u59sejol0.3xjvl.adobestats.io
+  - DOMAIN,upr1b7426i.3xjvl.adobestats.io
+  - DOMAIN,uubkrrllr3e.3xjvl.adobestats.io
+  - DOMAIN,uwryfzjdrz.3xjvl.adobestats.io
+  - DOMAIN,v22q6w6wq.3xjvl.adobestats.io
+  - DOMAIN,we1umqiswu2z.3xjvl.adobestats.io
+  - DOMAIN,wlj1h4blrp7g.3xjvl.adobestats.io
+  - DOMAIN,wxyngd17t6.3xjvl.adobestats.io
+  - DOMAIN,xgdmt4vf85bp.3xjvl.adobestats.io
+  - DOMAIN,xszot6ji.3xjvl.adobestats.io
+  - DOMAIN,yekgto6utnwb.3xjvl.adobestats.io
+  - DOMAIN,z9qaad6rt4kg.3xjvl.adobestats.io
+  - DOMAIN,zq2u2gyhgz.3xjvl.adobestats.io
+  - DOMAIN,zsuhb3mn59k.3xjvl.adobestats.io
