@@ -6,9 +6,18 @@
 # https://github.com/ignaciocastro/a-dove-is-dumb/issues
 # Or follow updates at https://a.dove.isdumb.one/telegram
 # Last update: 2026-09-03 02:02 UTC
-127.0.0.1 ic.adobe.io
+127.0.0.1 adobe.io
 127.0.0.1 cc-api-data.adobe.io
+127.0.0.1 crs.cr.adobe.com
 127.0.0.1 fp.adobestats.io
+127.0.0.1 gcos.adobe.io
+127.0.0.1 hbc.adobe.io
+127.0.0.1 ic.adobe.io
+127.0.0.1 lcs-robs.adobe.io
+127.0.0.1 lcs-ulecs.adobe.io
+127.0.0.1 prod.adobegenuine.com
+127.0.0.1 workflow.licenses.adobe.com
+127.0.0.1 workflow-stage.licenses.adobe.com
 127.0.0.1 0mo5a70cqa.adobe.io
 127.0.0.1 1b9khekel6.adobe.io
 127.0.0.1 1hzopx6nz7.adobe.io
@@ -1787,7 +1796,6 @@
 127.0.0.1 qfo0y9d3ohxu.4e2id.adobestats.io
 127.0.0.1 ogktn7dh1u.adobe.io
 127.0.0.1 fqtfjwmddnvn.051my.adobestats.io
-127.0.0.1 lcs-robs.adobe.io
 127.0.0.1 s8ehmx99qw4z.4p4bv.adobestats.io
 127.0.0.1 6sx70k2n.bgvqb.adobestats.io
 127.0.0.1 m5eo8l308yn5.bgvqb.adobestats.io
@@ -1803,7 +1811,6 @@
 127.0.0.1 8kbj8x2r.xwk4b.adobestats.io
 127.0.0.1 6pqb1f0d.7r39q.adobestats.io
 127.0.0.1 ah2wt6iy.4e2id.adobestats.io
-127.0.0.1 hbc.adobe.io
 127.0.0.1 mjilgpuvz7.adobestats.io
 127.0.0.1 yj1mifm2n4.adobestats.io
 127.0.0.1 csbv68eh.jiegg.adobestats.io
@@ -2478,7 +2485,6 @@
 127.0.0.1 m5s2furqby.7cnli.adobestats.io
 127.0.0.1 ggrvx3yxdd.adobestats.io
 127.0.0.1 gaac5p2y.4p4bv.adobestats.io
-127.0.0.1 lcs-ulecs.adobe.io
 127.0.0.1 uc8axrnlin0.pkxns.adobestats.io
 127.0.0.1 zwp5hbxe.ay6tu.adobestats.io
 127.0.0.1 cmdqm0fl.4p4bv.adobestats.io
@@ -2695,7 +2701,6 @@
 127.0.0.1 3w267rdagt.p5jr3.adobestats.io
 127.0.0.1 cz7cgfnm6t.a13cy.adobestats.io
 127.0.0.1 ose7nyyjlh.lqn0m.adobestats.io
-127.0.0.1 crs.cr.adobe.com
 127.0.0.1 gwzwlfgl4b.adobestats.io
 127.0.0.1 vdcf8rui0fr.a13cy.adobestats.io
 127.0.0.1 zeg3f5j2umh.lqn0m.adobestats.io
@@ -2950,13 +2955,11 @@
 127.0.0.1 k9bn1pb8.xwk4b.adobestats.io
 127.0.0.1 du19xw8i.4p4bv.adobestats.io
 127.0.0.1 j8awrvsh.wzwva.adobestats.io
-127.0.0.1 gcos.adobe.io
 127.0.0.1 dd4wnlnz4o4.wzwva.adobestats.io
 127.0.0.1 dzgae2njxaq.lqn0m.adobestats.io
 127.0.0.1 zfkju3qu.xwk4b.adobestats.io
 127.0.0.1 ybnt1hdy.4p4bv.adobestats.io
 127.0.0.1 uczq5cp8.xwk4b.adobestats.io
-127.0.0.1 prod.adobegenuine.com
 127.0.0.1 6o12rj6e.sf7e3.adobestats.io
 127.0.0.1 bga0dy55fqj.xwk4b.adobestats.io
 127.0.0.1 0bcampyyowr.lqn0m.adobestats.io
@@ -3552,7 +3555,6 @@
 127.0.0.1 q97bkqcvwh.adobestats.io
 127.0.0.1 lqkw18jb.sf7e3.adobestats.io
 127.0.0.1 m6zd0jnw.xwk4b.adobestats.io
-127.0.0.1 adobe.io
 127.0.0.1 v8qopmtw.lqn0m.adobestats.io
 127.0.0.1 yfin3djujv.xwk4b.adobestats.io
 127.0.0.1 f5jeo6zi0.xwk4b.adobestats.io
@@ -4656,8 +4658,6 @@
 127.0.0.1 yooc080gjbs.jyqfm.adobestats.io
 127.0.0.1 zhp234mvi9t1.jyqfm.adobestats.io
 127.0.0.1 zrdjiy99m.jyqfm.adobestats.io
-127.0.0.1 workflow.licenses.adobe.com
-127.0.0.1 workflow-stage.licenses.adobe.com
 127.0.0.1 ttghbajq.td3wc.adobestats.io
 127.0.0.1 00l0620h.td3wc.adobestats.io
 127.0.0.1 0fjqvt7lisx.td3wc.adobestats.io

@@ -6,9 +6,18 @@
 # https://github.com/ignaciocastro/a-dove-is-dumb/issues
 # Or follow updates at https://a.dove.isdumb.one/telegram
 # Last update: 2026-09-03 02:02 UTC
-ic.adobe.io
+adobe.io
 cc-api-data.adobe.io
+crs.cr.adobe.com
 fp.adobestats.io
+gcos.adobe.io
+hbc.adobe.io
+ic.adobe.io
+lcs-robs.adobe.io
+lcs-ulecs.adobe.io
+prod.adobegenuine.com
+workflow.licenses.adobe.com
+workflow-stage.licenses.adobe.com
 0mo5a70cqa.adobe.io
 1b9khekel6.adobe.io
 1hzopx6nz7.adobe.io
@@ -1787,7 +1796,6 @@ wxxukwhvlcp7.xwk4b.adobestats.io
 qfo0y9d3ohxu.4e2id.adobestats.io
 ogktn7dh1u.adobe.io
 fqtfjwmddnvn.051my.adobestats.io
-lcs-robs.adobe.io
 s8ehmx99qw4z.4p4bv.adobestats.io
 6sx70k2n.bgvqb.adobestats.io
 m5eo8l308yn5.bgvqb.adobestats.io
@@ -1803,7 +1811,6 @@ ytlgjki5.nr94p.adobestats.io
 8kbj8x2r.xwk4b.adobestats.io
 6pqb1f0d.7r39q.adobestats.io
 ah2wt6iy.4e2id.adobestats.io
-hbc.adobe.io
 mjilgpuvz7.adobestats.io
 yj1mifm2n4.adobestats.io
 csbv68eh.jiegg.adobestats.io
@@ -2478,7 +2485,6 @@ hzp3om8jr7.adobestats.io
 m5s2furqby.7cnli.adobestats.io
 ggrvx3yxdd.adobestats.io
 gaac5p2y.4p4bv.adobestats.io
-lcs-ulecs.adobe.io
 uc8axrnlin0.pkxns.adobestats.io
 zwp5hbxe.ay6tu.adobestats.io
 cmdqm0fl.4p4bv.adobestats.io
@@ -2695,7 +2701,6 @@ zpb97a987v.adobestats.io
 3w267rdagt.p5jr3.adobestats.io
 cz7cgfnm6t.a13cy.adobestats.io
 ose7nyyjlh.lqn0m.adobestats.io
-crs.cr.adobe.com
 gwzwlfgl4b.adobestats.io
 vdcf8rui0fr.a13cy.adobestats.io
 zeg3f5j2umh.lqn0m.adobestats.io
@@ -2950,13 +2955,11 @@ up9pdj60.lqn0m.adobestats.io
 k9bn1pb8.xwk4b.adobestats.io
 du19xw8i.4p4bv.adobestats.io
 j8awrvsh.wzwva.adobestats.io
-gcos.adobe.io
 dd4wnlnz4o4.wzwva.adobestats.io
 dzgae2njxaq.lqn0m.adobestats.io
 zfkju3qu.xwk4b.adobestats.io
 ybnt1hdy.4p4bv.adobestats.io
 uczq5cp8.xwk4b.adobestats.io
-prod.adobegenuine.com
 6o12rj6e.sf7e3.adobestats.io
 bga0dy55fqj.xwk4b.adobestats.io
 0bcampyyowr.lqn0m.adobestats.io
@@ -3552,7 +3555,6 @@ t01w4lwuc.xwk4b.adobestats.io
 q97bkqcvwh.adobestats.io
 lqkw18jb.sf7e3.adobestats.io
 m6zd0jnw.xwk4b.adobestats.io
-adobe.io
 v8qopmtw.lqn0m.adobestats.io
 yfin3djujv.xwk4b.adobestats.io
 f5jeo6zi0.xwk4b.adobestats.io
@@ -4656,8 +4658,6 @@ yjhzw2pq3uu.jyqfm.adobestats.io
 yooc080gjbs.jyqfm.adobestats.io
 zhp234mvi9t1.jyqfm.adobestats.io
 zrdjiy99m.jyqfm.adobestats.io
-workflow.licenses.adobe.com
-workflow-stage.licenses.adobe.com
 ttghbajq.td3wc.adobestats.io
 00l0620h.td3wc.adobestats.io
 0fjqvt7lisx.td3wc.adobestats.io
