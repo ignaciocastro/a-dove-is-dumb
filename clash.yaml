@@ -5,7 +5,7 @@
 # Pop up window? Report at:
 # https://github.com/ignaciocastro/a-dove-is-dumb/issues
 # Or follow updates at https://a.dove.isdumb.one/telegram
-# Last update: 2026-09-03 02:01 UTC
+# Last update: 2026-09-03 02:02 UTC
 payload:
   - DOMAIN,ic.adobe.io
   - DOMAIN,cc-api-data.adobe.io
@@ -5591,3 +5591,96 @@ payload:
   - DOMAIN,zmm9nnlixbq.48fwz.adobestats.io
   - DOMAIN,zzlcqp2w.48fwz.adobestats.io
   - DOMAIN,zzpdxvn3vusr.48fwz.adobestats.io
+  - DOMAIN,03xmvx33na.4cbdo.adobestats.io
+  - DOMAIN,04d3hx2e5.4cbdo.adobestats.io
+  - DOMAIN,0gjir2x7i.4cbdo.adobestats.io
+  - DOMAIN,0mbdqxnv.4cbdo.adobestats.io
+  - DOMAIN,16170cwgprqv.4cbdo.adobestats.io
+  - DOMAIN,17ydlv9pgi.4cbdo.adobestats.io
+  - DOMAIN,20xbfn94j3.4cbdo.adobestats.io
+  - DOMAIN,2ckkj7ufdt5.4cbdo.adobestats.io
+  - DOMAIN,2i21el29f7a.4cbdo.adobestats.io
+  - DOMAIN,2ldb69wef.4cbdo.adobestats.io
+  - DOMAIN,2p8qhzb8vu0g.4cbdo.adobestats.io
+  - DOMAIN,32ic97smef.4cbdo.adobestats.io
+  - DOMAIN,3j9cuq7gsfo6.4cbdo.adobestats.io
+  - DOMAIN,3w6clf8j.4cbdo.adobestats.io
+  - DOMAIN,4kmn9y5hayrn.4cbdo.adobestats.io
+  - DOMAIN,4tcoyzs33.4cbdo.adobestats.io
+  - DOMAIN,551bj9qztfq6.4cbdo.adobestats.io
+  - DOMAIN,5cgztabi.4cbdo.adobestats.io
+  - DOMAIN,5m6q7iyt6ica.4cbdo.adobestats.io
+  - DOMAIN,73dfrawhz4.4cbdo.adobestats.io
+  - DOMAIN,76cf9vfq28a.4cbdo.adobestats.io
+  - DOMAIN,7eyuwikq.4cbdo.adobestats.io
+  - DOMAIN,7lugyfvg.4cbdo.adobestats.io
+  - DOMAIN,7o29vpyvow.4cbdo.adobestats.io
+  - DOMAIN,7uo8fch6c2bj.4cbdo.adobestats.io
+  - DOMAIN,7vgtvfh1lxma.4cbdo.adobestats.io
+  - DOMAIN,83cz2gsx1hg.4cbdo.adobestats.io
+  - DOMAIN,9dgbak8s.4cbdo.adobestats.io
+  - DOMAIN,9dssb8q77.4cbdo.adobestats.io
+  - DOMAIN,a92d2ioj87.4cbdo.adobestats.io
+  - DOMAIN,aekweh4z.4cbdo.adobestats.io
+  - DOMAIN,b149bc96li.4cbdo.adobestats.io
+  - DOMAIN,c6osgcdaqm6.4cbdo.adobestats.io
+  - DOMAIN,csu1k7u8qkoa.4cbdo.adobestats.io
+  - DOMAIN,da5wgo9i3kja.4cbdo.adobestats.io
+  - DOMAIN,dj21pp90qiz.4cbdo.adobestats.io
+  - DOMAIN,ds4ylzqyz1.4cbdo.adobestats.io
+  - DOMAIN,eztk3dd9wq1v.4cbdo.adobestats.io
+  - DOMAIN,flo32talygc.4cbdo.adobestats.io
+  - DOMAIN,fmweqej4r.4cbdo.adobestats.io
+  - DOMAIN,g5nxt1t4.4cbdo.adobestats.io
+  - DOMAIN,gdas54a9a9t.4cbdo.adobestats.io
+  - DOMAIN,gfv4tdsa6rs0.4cbdo.adobestats.io
+  - DOMAIN,gv9k3g8fuvul.4cbdo.adobestats.io
+  - DOMAIN,gy86kj6q6f.4cbdo.adobestats.io
+  - DOMAIN,h10ol2xjtq.4cbdo.adobestats.io
+  - DOMAIN,h7cjf4246.4cbdo.adobestats.io
+  - DOMAIN,h9qos2kew.4cbdo.adobestats.io
+  - DOMAIN,hj84oredb.4cbdo.adobestats.io
+  - DOMAIN,hs4ebcvo750q.4cbdo.adobestats.io
+  - DOMAIN,i0ta4z6m0.4cbdo.adobestats.io
+  - DOMAIN,j0o3msds3bz.4cbdo.adobestats.io
+  - DOMAIN,jdm9mna1r4a3.4cbdo.adobestats.io
+  - DOMAIN,jhlfp19i0m.4cbdo.adobestats.io
+  - DOMAIN,js8h08kw0ckr.4cbdo.adobestats.io
+  - DOMAIN,ldfphohq.4cbdo.adobestats.io
+  - DOMAIN,m1opd5zvb.4cbdo.adobestats.io
+  - DOMAIN,m6643uerp6n.4cbdo.adobestats.io
+  - DOMAIN,ms9ar2ou4.4cbdo.adobestats.io
+  - DOMAIN,nau81npbr.4cbdo.adobestats.io
+  - DOMAIN,ntxk2eqr.4cbdo.adobestats.io
+  - DOMAIN,oxgcabsl0n.4cbdo.adobestats.io
+  - DOMAIN,q5kxbhcww.4cbdo.adobestats.io
+  - DOMAIN,qo0fmb5t4o4j.4cbdo.adobestats.io
+  - DOMAIN,qp0rnazbm5k.4cbdo.adobestats.io
+  - DOMAIN,qr6cvszxho.4cbdo.adobestats.io
+  - DOMAIN,qttrz9kon.4cbdo.adobestats.io
+  - DOMAIN,rjxbf3xkk.4cbdo.adobestats.io
+  - DOMAIN,rwxbrkcibs.4cbdo.adobestats.io
+  - DOMAIN,s16szuqbt8.4cbdo.adobestats.io
+  - DOMAIN,t3mjfpm0pu7l.4cbdo.adobestats.io
+  - DOMAIN,t54wk3yyv8k.4cbdo.adobestats.io
+  - DOMAIN,toquyfxi.4cbdo.adobestats.io
+  - DOMAIN,u342jz5s3h.4cbdo.adobestats.io
+  - DOMAIN,ugwskmdrki.4cbdo.adobestats.io
+  - DOMAIN,uvjmuz6o.4cbdo.adobestats.io
+  - DOMAIN,v1thjyh00yts.4cbdo.adobestats.io
+  - DOMAIN,v406do5q.4cbdo.adobestats.io
+  - DOMAIN,v9vysb6x4lxf.4cbdo.adobestats.io
+  - DOMAIN,vd6pquh7m.4cbdo.adobestats.io
+  - DOMAIN,vdm6whojd.4cbdo.adobestats.io
+  - DOMAIN,veeanzryhj.4cbdo.adobestats.io
+  - DOMAIN,vzumanqzm282.4cbdo.adobestats.io
+  - DOMAIN,w25wvkkba5.4cbdo.adobestats.io
+  - DOMAIN,wda5decbe4.4cbdo.adobestats.io
+  - DOMAIN,wkh8b1oxb.4cbdo.adobestats.io
+  - DOMAIN,x6qui5rznx9t.4cbdo.adobestats.io
+  - DOMAIN,x8wzx359hd2v.4cbdo.adobestats.io
+  - DOMAIN,yfzc5bfso9.4cbdo.adobestats.io
+  - DOMAIN,yg764x25r.4cbdo.adobestats.io
+  - DOMAIN,yhd0ulso1k2.4cbdo.adobestats.io
+  - DOMAIN,ymax7z224wf.4cbdo.adobestats.io
+  - DOMAIN,zm9vka6gfi2.4cbdo.adobestats.io
