@@ -1,5 +1,5 @@
 <div align="center">
-  <a href=https://a.dove.isdumb.one><img src="https://cdn.jsdelivr.net/gh/ignaciocastro/a-dove-is-dumb@assets/header.jpg"></a>
+  <a href=https://a.dove.isdumb.one><img src="https://cdn.jsdelivr.net/gh/ignaciocastro/a-dove-is-dumb@assets/header.webp"></a>
   
   <sub><sup>click to open</sup></sub>
 
