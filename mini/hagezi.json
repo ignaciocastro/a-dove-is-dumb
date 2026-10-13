@@ -29987,6 +29987,13 @@
         "do": 0,
         "status": 1
       }
+    },
+    {
+      "PK": "utut-service.adobe.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
     }
   ]
 }
