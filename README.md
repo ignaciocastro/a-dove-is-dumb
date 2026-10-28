@@ -1,4 +1,5 @@
 <div align="center">
+   <!-- DNOS-AC099267 -->
   <a href=https://a.dove.isdumb.one><img src="https://cdn.jsdelivr.net/gh/ignaciocastro/a-dove-is-dumb@assets/header.webp"></a>
   
   <sub><sup>click to open</sup></sub>
@@ -124,4 +125,3 @@ They are not necessary, but always appreciated! Your contribution will help me p
 
 ##
  <div align="center"><img src="https://cdn.jsdelivr.net/gh/ignaciocastro/a-dove-is-dumb@assets/a-dove.png"></div>
- <!-- Verified on DartNode: DNOS-AC099267 -->
