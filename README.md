@@ -120,5 +120,7 @@ They are not necessary, but always appreciated! Your contribution will help me p
 
 </center>
 
+[![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
+
 ##
  <div align="center"><img src="https://cdn.jsdelivr.net/gh/ignaciocastro/a-dove-is-dumb@assets/a-dove.png"></div>
