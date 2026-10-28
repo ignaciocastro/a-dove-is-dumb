@@ -124,3 +124,4 @@ They are not necessary, but always appreciated! Your contribution will help me p
 
 ##
  <div align="center"><img src="https://cdn.jsdelivr.net/gh/ignaciocastro/a-dove-is-dumb@assets/a-dove.png"></div>
+ <!-- Verified on DartNode: DNOS-AC099267 -->
