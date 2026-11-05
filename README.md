@@ -1,4 +1,5 @@
 <div align="center">
+   <!-- DNOS-AC099267 -->
   <a href=https://a.dove.isdumb.one><img src="https://cdn.jsdelivr.net/gh/ignaciocastro/a-dove-is-dumb@assets/header.webp"></a>
   
   <sub><sup>click to open</sup></sub>
@@ -119,6 +120,8 @@ They are not necessary, but always appreciated! Your contribution will help me p
 [Github Sponsors (+crypto wallets)](https://github.com/sponsors/ignaciocastro)
 
 </center>
+
+[![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
 
 ##
  <div align="center"><img src="https://cdn.jsdelivr.net/gh/ignaciocastro/a-dove-is-dumb@assets/a-dove.png"></div>
